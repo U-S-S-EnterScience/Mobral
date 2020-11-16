@@ -1,7 +1,6 @@
 package projeto;
 
 public class Imovel {
-
 	private double preco;
 	private double condominio = 0;
 	private int tamanho = 0;
@@ -12,9 +11,7 @@ public class Imovel {
 	private int elevador = 0;
 	private int mobiliado = 0;
 	private int piscina = 0;
-	private int novo = 0;
 	private String bairro;
-	private String tipoImovel;
 	
 	/***
 	 * Método construtor do Imóvel
@@ -29,10 +26,9 @@ public class Imovel {
 	 * @param piscina - Indica se o imóvel tem acesso a piscina (0 = falso , 1 = verdadeiro)
 	 * @param novo - Indica se o imóvel é novo (0 = falso , 1 = verdadeiro)
 	 * @param bairro - Nome do bairro aonde o imóvel encontra-se
-	 * @param tipoImovel - Indica o tipo do imóvel
 	 */
 	public Imovel(double condominio, int tamanho, int quartos, int banheiros, int suites, int garagem,
-			int elevador, int mobiliado, int piscina, int novo, String bairro, String tipoImovel) {
+			int elevador, int mobiliado, int piscina, String bairro) {
 		setCondominio(condominio);
 		setTamanho(tamanho);
 		setQuartos(quartos);
@@ -42,9 +38,7 @@ public class Imovel {
 		setElevador(elevador);
 		setMobiliado(mobiliado);
 		setPiscina(piscina);
-		setNovo(novo);
 		setBairro(bairro);
-		setTipoImovel(tipoImovel);
 	}
 	
 	/***
@@ -209,22 +203,6 @@ public class Imovel {
 	
 	/***
 	 * Retorna o valor do atributo
-	 * @return - Indica se o imóvel é novo (0 = falso , 1 = verdadeiro)
-	 */
-	public int getNovo() {
-		return novo;
-	}
-	
-	/***
-	 * Define o valor do atributo
-	 * @param novo - Indica se o imóvel é novo (0 = falso , 1 = verdadeiro)
-	 */
-	public void setNovo(int novo) {
-		if(novo == 0 || novo == 1) this.novo = novo;
-	}
-	
-	/***
-	 * Retorna o valor do atributo
 	 * @return - Nome do bairro aonde o imóvel encontra-se
 	 */
 	public String getBairro() {
@@ -236,22 +214,6 @@ public class Imovel {
 	 * @param bairro - Nome do bairro aonde o imóvel encontra-se
 	 */
 	public void setBairro(String bairro) {
-		if(bairro != "" && bairro.length() > 50) this.bairro = bairro; //Adicionar verificação de símbolos e somnete números
-	}
-	
-	/***
-	 * Retorna o valor do atributo
-	 * @return - Indica o tipo do imóvelartos do imóvel
-	 */
-	public String getTipoImovel() {
-		return tipoImovel;
-	}
-	
-	/***
-	 * Define o valor do atributo
-	 * @param tipoImovel - Indica o tipo do imóvelartos do imóvel
-	 */
-	public void setTipoImovel(String tipoImovel) {
-		if(bairro == "Casa" || bairro == "Apartamento"|| bairro == "Comercial"|| bairro == "Terreno") this.tipoImovel = tipoImovel;
+		if(bairro != "" && bairro.length() < 50) this.bairro = bairro; //Adicionar verificação de símbolos e somente números
 	}
 }
