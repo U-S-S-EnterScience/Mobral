@@ -15,7 +15,7 @@ public class Previsor {
 	 * @param ap imóvel a sofrer a previsão do preço de venda
 	 * @return valor de venda previsto para o imóvel (R$)
 	 */
-	public static String calcularVenda(Imovel ap){
+	public static Double calcularVenda(Imovel ap){
 		try {
 		String modelo = "src/files/PrecificadorVenda.model",
 			   fonte = "src/files/Sale.csv";
@@ -39,12 +39,12 @@ public class Previsor {
 		Imovel.setValue(9,ap.getBairro());
 		Imovel.setValue(10,0);
 
-		String preco = NumberFormat.getCurrencyInstance().format(pv.classifyInstance(Imovel));
+		Double preco = pv.classifyInstance(Imovel);
 		return preco;
 		}
 		
 		catch (Exception e) {
-			return "Dados Inválidos, favor tentar novamente.";
+			return null;
 		}
 		
 	}
@@ -54,7 +54,7 @@ public class Previsor {
 	 * @param ap imóvel a sofrer a previsão do preço de venda
 	 * @return valor de aluguel previsto para o imóvel (R$)
 	 */
-	public static String calcularAluguel(Imovel ap) {
+	public static Double calcularAluguel(Imovel ap) {
 		try{
 		String modelo = "src/files/PrecificadorAluguel.model",
 			   fonte = "src/files/Rent.csv";
@@ -78,11 +78,11 @@ public class Previsor {
 		Imovel.setValue(9,ap.getBairro());
 		Imovel.setValue(10,0);
 
-		String preco = NumberFormat.getCurrencyInstance().format(pv.classifyInstance(Imovel));
+		Double preco = pv.classifyInstance(Imovel);
 		return preco;
 		}
 		catch (Exception e) {
-			return "Dados Inválidos, favor tentar novamente.";
+			return null;
 		}
 		
 		
