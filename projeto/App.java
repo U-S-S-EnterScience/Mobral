@@ -60,7 +60,7 @@ public class App extends JFrame {
 	 */
 	public App() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setBounds(0, 0, 1920, 1080);
+		setBounds(0, 0, 1370, 730);
 		setResizable(false);
 		contentPane = new JPanel(){
 			public void paintComponent(Graphics g) {
@@ -75,140 +75,140 @@ public class App extends JFrame {
 		
 		JLabel lblNegociacao = new JLabel("Tipo de Negocia\u00E7\u00E3o");
 		lblNegociacao.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblNegociacao.setBounds(320, 330, 250, 30);
+		lblNegociacao.setBounds(114, 215, 250, 30);
 		contentPane.add(lblNegociacao);
 		
 		JComboBox cbNegociacao = new JComboBox();
 		cbNegociacao.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbNegociacao.setModel(new DefaultComboBoxModel(new String[] {"Venda", "Aluguel"}));
-		cbNegociacao.setBounds(320, 365, 120, 45);
+		cbNegociacao.setBounds(114, 244, 120, 45);
 		contentPane.add(cbNegociacao);
 		
 		JLabel lblCondominio = new JLabel("Condom\u00EDnio");
 		lblCondominio.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblCondominio.setBounds(700, 330, 250, 30);
+		lblCondominio.setBounds(355, 215, 250, 30);
 		contentPane.add(lblCondominio);
 		
 		tfCondominio = new JTextField();
 		tfCondominio.setFont(new Font("Tahoma", Font.PLAIN, 25));
-		tfCondominio.setBounds(700, 365, 120, 45);
+		tfCondominio.setBounds(355, 244, 120, 45);
 		contentPane.add(tfCondominio);
 		tfCondominio.setColumns(10);
 		
 		JLabel lblTamanho = new JLabel("Tamanho");
 		lblTamanho.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblTamanho.setBounds(320, 430, 250, 30);
+		lblTamanho.setBounds(554, 215, 250, 30);
 		contentPane.add(lblTamanho);
 		
 		tfTamanho = new JTextField();
 		tfTamanho.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		tfTamanho.setColumns(10);
-		tfTamanho.setBounds(320, 465, 120, 45);
+		tfTamanho.setBounds(554, 244, 120, 45);
 		contentPane.add(tfTamanho);
 		
 		JLabel lblQuartos = new JLabel("Quartos");
 		lblQuartos.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblQuartos.setBounds(700, 430, 250, 30);
+		lblQuartos.setBounds(114, 313, 250, 30);
 		contentPane.add(lblQuartos);
 		
 		JComboBox cbQuartos = new JComboBox();
 		cbQuartos.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbQuartos.setModel(new DefaultComboBoxModel(new String[] {"1", "2", "3", "4", "5"}));
-		cbQuartos.setBounds(700, 465, 120, 45);
+		cbQuartos.setBounds(114, 342, 120, 45);
 		contentPane.add(cbQuartos);
 		
 		JLabel lblBanheiros = new JLabel("Banheiros");
 		lblBanheiros.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblBanheiros.setBounds(320, 530, 250, 30);
+		lblBanheiros.setBounds(355, 312, 250, 30);
 		contentPane.add(lblBanheiros);
 		
 		JComboBox cbBanheiros = new JComboBox();
 		cbBanheiros.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbBanheiros.setModel(new DefaultComboBoxModel(new String[] {"1", "2", "3", "4", "5", "6", "7", "8"}));
-		cbBanheiros.setBounds(320, 565, 120, 45);
+		cbBanheiros.setBounds(355, 342, 120, 45);
 		contentPane.add(cbBanheiros);
 		
 		lblSuites = new JLabel("Su\u00EDtes");
 		lblSuites.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblSuites.setBounds(700, 530, 250, 30);
+		lblSuites.setBounds(554, 312, 250, 30);
 		contentPane.add(lblSuites);
 		
 		JComboBox cbSuites = new JComboBox();
 		cbSuites.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbSuites.setModel(new DefaultComboBoxModel(new String[] {"0", "1", "2", "3", "4"}));
-		cbSuites.setBounds(700, 565, 120, 45);
+		cbSuites.setBounds(554, 342, 120, 45);
 		contentPane.add(cbSuites);
 		
 		JLabel lblGaragem = new JLabel("Vagas na Garagem");
 		lblGaragem.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblGaragem.setBounds(320, 630, 250, 30);
+		lblGaragem.setBounds(114, 407, 250, 30);
 		contentPane.add(lblGaragem);
 		
 		JComboBox cbGaragem = new JComboBox();
 		cbGaragem.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbGaragem.setModel(new DefaultComboBoxModel(new String[] {"0", "1", "2", "3", "4", "5", "6"}));
-		cbGaragem.setBounds(320, 665, 120, 45);
+		cbGaragem.setBounds(114, 438, 120, 45);
 		contentPane.add(cbGaragem);
 		
 		lblElevador = new JLabel("Elevador");
 		lblElevador.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblElevador.setBounds(700, 630, 250, 30);
+		lblElevador.setBounds(355, 407, 250, 30);
 		contentPane.add(lblElevador);
 		
 		JComboBox cbElevador = new JComboBox();
 		cbElevador.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbElevador.setModel(new DefaultComboBoxModel(new String[] {"N\u00E3o", "Sim"}));
-		cbElevador.setBounds(700, 665, 120, 45);
+		cbElevador.setBounds(355, 438, 120, 45);
 		contentPane.add(cbElevador);
 		
 		JLabel lblPiscina = new JLabel("Piscina");
 		lblPiscina.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblPiscina.setBounds(320, 730, 250, 30);
+		lblPiscina.setBounds(554, 403, 250, 30);
 		contentPane.add(lblPiscina);
 		
 		JComboBox cbPiscina = new JComboBox();
 		cbPiscina.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbPiscina.setModel(new DefaultComboBoxModel(new String[] {"N\u00E3o", "Sim"}));
-		cbPiscina.setBounds(320, 765, 120, 45);
+		cbPiscina.setBounds(554, 438, 120, 45);
 		contentPane.add(cbPiscina);
 		
 		JLabel lblMobiliado = new JLabel("Mobiliado");
 		lblMobiliado.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblMobiliado.setBounds(700, 730, 250, 30);
+		lblMobiliado.setBounds(114, 506, 250, 30);
 		contentPane.add(lblMobiliado);
 		
 		JComboBox cbMobiliado = new JComboBox();
 		cbMobiliado.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbMobiliado.setModel(new DefaultComboBoxModel(new String[] {"N\u00E3o", "Sim"}));
-		cbMobiliado.setBounds(700, 765, 120, 45);
+		cbMobiliado.setBounds(114, 541, 120, 45);
 		contentPane.add(cbMobiliado);
 		
 		JLabel lblBairro = new JLabel("Bairro");
 		lblBairro.setFont(new Font("Tahoma", Font.BOLD, 20));
-		lblBairro.setBounds(320, 830, 250, 30);
+		lblBairro.setBounds(350, 506, 250, 30);
 		contentPane.add(lblBairro);
 		
 		JComboBox cbBairro = new JComboBox();
 		cbBairro.setFont(new Font("Tahoma", Font.PLAIN, 25));
 		cbBairro.setModel(new DefaultComboBoxModel(new String[] {"Artur Alvim", "Belem", "Cangaiba", "Carrao", "Cidade Lider", "Cidade Tiradentes", "Ermelino Matarazzo", "Iguatemi", "Itaim Paulista", "Itaquera", "Jardim Helena", "Jose Bonifacio", "Lajeado", "Parque do Carmo", "Penha", "Ponte Rasa", "Sapopemba", "Sao Lucas", "Sao Mateus", "Sao Miguel", "Sao Rafael", "Tatuape", "Vila Curuca", "Vila Formosa", "Vila Jacui", "Vila Matilde", "Vila Prudente", "Cambuci", "Campo Belo", "Campo Grande", "Campo Limpo", "Capao Redondo", "Cidade Ademar", "Cidade Dutra", "Cursino", "Grajau", "Ipiranga", "Itaim Bibi", "Jabaquara", "Jardim Angela", "Jardim Paulista", "Moema", "Morumbi", "Pedreira", "Sacoma", "Santo Amaro", "Saude", "Socorro", "Vila Andrade", "Vila Mariana", "Vila Sonia", "Alto de Pinheiros", "Anhanguera", "Brasilandia", "Butanta", "Cachoeirinha", "Freguesia do O", "Jaguare", "Jaragua", "Lapa", "Limao", "Perdizes", "Pinheiros", "Pirituba", "Raposo Tavares", "Rio Pequeno", "Vila Leopoldina", "Barra Funda", "Bela Vista", "Bom Retiro", "Bras", "Consolacao", "Liberdade", "Pari", "Republica", "Santa Cecilia", "Se", "Casa Verde", "Jacana", "Mandaqui", "Santana", "Tremembe", "Tucuruvi", "Vila Guilherme", "Vila Maria", "Medeiros", "Agua Rasa", "Aricanduva", "Guaianazes", "Jardim Sao Luis", "Vila Madalena", "Mooca", "Brooklin", "Vila Olimpia"}));
-		cbBairro.setBounds(320, 865, 500, 45);
+		cbBairro.setBounds(350, 541, 324, 45);
 		contentPane.add(cbBairro);
 		
 		JButton btnSimular = new JButton("Simular");
 		btnSimular.setFont(new Font("Tahoma", Font.PLAIN, 20));
-		btnSimular.setBounds(400, 940, 135, 45);
+		btnSimular.setBounds(210, 618, 135, 45);
 		contentPane.add(btnSimular);
 		
 		JButton btnSalvar = new JButton("Salvar");
 		btnSalvar.setFont(new Font("Tahoma", Font.PLAIN, 20));
-		btnSalvar.setBounds(600, 940, 135, 45);
+		btnSalvar.setBounds(446, 618, 135, 45);
 		contentPane.add(btnSalvar);
 		
 		table = new JTable();
 		table.setRowSelectionAllowed(false);
-		table.setRowHeight(49);
-		table.setFont(new Font("Tahoma", Font.PLAIN, 25));
-		table.setBounds(1192, 332, 535, 584);
+		table.setRowHeight(33);
+		table.setFont(new Font("Tahoma", Font.PLAIN, 20));
+		table.setBounds(786, 244, 519, 398);
 		contentPane.add(table);
 		table.setVisible(false);
 		
