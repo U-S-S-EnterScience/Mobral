@@ -24,6 +24,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 190,34,2,2,1,1,1,0,1,Mooca,203000
 700,85,3,2,1,2,1,0,1,Mooca,680000
 0,58,3,2,0,1,1,0,0,Mooca,345300
+0,120,3,3,1,2,1,0,1,Mooca,995000
 0,60,3,2,1,1,1,0,1,Mooca,369000
 820,140,3,2,1,3,1,0,1,Mooca,927000
 0,118,3,4,3,2,1,0,1,Mooca,880000
@@ -49,18 +50,18 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 800,63,2,2,1,2,0,0,1,Brooklin,690000
 770,70,2,2,1,1,1,0,1,Brooklin,950000
 850,72,2,2,1,1,1,0,0,Brooklin,640000
+1500,121,3,4,1,3,1,1,1,Brooklin,1000000
 1020,83,3,3,1,2,1,0,1,Brooklin,847000
 950,94,3,4,1,2,1,0,1,Brooklin,750000
 1180,100,3,4,3,2,1,0,1,Brooklin,954000
 492,41,1,2,1,1,1,0,1,Brooklin,555000
 450,34,1,2,1,1,1,1,1,Brooklin,440000
-1020,83,3,3,1,2,1,0,1,Brooklin,847000
 0,85,3,2,1,1,0,0,0,Vila Olimpia,780000
 1488,105,3,3,1,1,1,0,0,Vila Olimpia,807000
 937,98,3,2,1,1,0,0,0,Vila Olimpia,775000
 972,33,1,2,1,1,1,1,1,Vila Olimpia,350000
 500,51,1,2,1,1,0,1,0,Vila Olimpia,590000
-500,51,1,2,1,1,0,1,0,Vila Olimpia,590000
+1729,60,2,2,1,1,0,1,1,Vila Olimpia,1053000
 761,53,1,2,1,1,1,0,0,Vila Olimpia,610000
 0,112,3,2,1,2,0,0,0,Mooca,940000
 800,120,3,3,2,3,0,1,1,Mooca,900000
@@ -91,12 +92,14 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 400,70,2,2,1,1,0,0,1,Mooca,526000
 0,60,2,2,1,2,0,0,1,Mooca,495000
 600,79,2,1,0,1,0,0,0,Mooca,350000
+820,122,3,3,2,2,0,0,1,Mooca,1000000
 0,74,2,2,1,2,0,0,1,Mooca,636000
 0,63,2,1,0,1,1,0,0,Mooca,420000
 0,68,3,2,1,1,1,0,1,Mooca,459400
 1480,110,3,2,1,2,0,0,1,Mooca,670000
 0,109,3,4,3,2,0,0,1,Mooca,827900
 250,35,1,2,1,1,0,0,1,Mooca,270000
+1800,190,2,3,2,3,0,0,1,Mooca,999000
 750,110,2,1,0,1,0,1,0,Mooca,560000
 770,80,3,2,1,2,0,1,1,Mooca,550000
 505,70,2,2,1,1,1,0,1,Mooca,531000
@@ -124,6 +127,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,65,2,2,1,1,1,0,1,Brooklin,592617
 1680,116,3,2,1,2,0,0,1,Brooklin,850000
 870,62,2,2,1,1,0,0,1,Brooklin,620000
+1000,93,2,2,1,2,0,0,1,Brooklin,1070000
 850,65,2,1,0,1,0,0,0,Brooklin,636000
 0,70,2,2,0,1,0,0,0,Brooklin,580000
 750,67,3,2,1,1,0,0,0,Brooklin,640000
@@ -131,7 +135,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,95,3,3,2,2,0,0,1,Brooklin,800000
 1300,115,3,2,1,1,1,0,0,Brooklin,980000
 1300,75,2,2,1,1,0,0,0,Brooklin,960000
-400,49,1,2,1,1,0,0,0,Brooklin,530000
+0,119,3,2,1,2,1,0,0,Brooklin,1050000
 400,49,1,2,1,1,0,0,0,Brooklin,530000
 0,103,4,4,2,2,1,0,1,Barra Funda,759000
 500,55,2,2,1,1,0,0,0,Barra Funda,449999
@@ -170,7 +174,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 380,37,1,2,1,1,1,0,1,Bela Vista,338000
 642,50,1,2,1,1,1,0,0,Bela Vista,325000
 250,36,1,2,1,2,1,0,1,Bela Vista,365000
-320,34,1,2,1,1,1,0,1,Bela Vista,323000
 375,36,1,2,1,1,1,0,1,Bela Vista,349000
 0,38,1,2,1,1,1,0,1,Bela Vista,344000
 1260,93,3,3,2,1,1,0,0,Bela Vista,790000
@@ -327,7 +330,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 359,47,1,2,1,1,0,0,0,Republica,310000
 287,40,1,2,1,1,1,0,1,Republica,385000
 400,65,2,2,1,1,1,1,1,Republica,605000
-287,40,1,2,1,1,1,0,1,Republica,385000
 0,39,1,2,1,1,1,0,1,Republica,472869
 290,38,1,2,1,1,1,0,0,Republica,259700
 460,70,2,2,1,1,0,0,0,Republica,250000
@@ -450,10 +452,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,73,3,2,1,2,0,1,1,Mandaqui,480000
 0,51,2,2,1,2,1,0,1,Mandaqui,313000
 0,50,2,2,1,2,1,0,1,Mandaqui,297000
-0,51,2,2,1,2,1,0,1,Mandaqui,321000
 0,54,2,2,1,2,1,0,1,Mandaqui,315000
 625,70,3,2,1,1,0,0,1,Mandaqui,360000
-0,50,2,2,1,2,1,0,1,Mandaqui,321000
 400,50,2,2,1,1,1,1,0,Mandaqui,295000
 550,76,3,2,1,2,1,0,1,Mandaqui,550000
 1500,143,3,3,1,3,0,0,1,Mandaqui,779000
@@ -566,6 +566,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,50,2,2,1,1,1,1,1,Vila Guilherme,315000
 1500,135,4,4,2,2,1,1,1,Vila Guilherme,898000
 380,48,2,2,1,1,1,1,1,Vila Guilherme,280000
+650,125,3,4,1,2,0,1,1,Vila Guilherme,1060000
 350,50,2,2,1,1,1,1,1,Vila Guilherme,280000
 400,60,3,2,1,1,1,1,1,Vila Guilherme,319200
 370,64,3,2,1,2,1,1,1,Vila Guilherme,425000
@@ -673,7 +674,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 420,66,2,2,1,1,0,0,1,Aricanduva,440000
 590,54,2,2,1,1,0,0,0,Aricanduva,380000
 392,65,2,2,1,1,1,0,1,Aricanduva,455200
-650,67,3,2,1,2,0,0,1,Aricanduva,310000
 596,55,2,2,1,1,1,0,1,Aricanduva,380000
 650,67,3,2,1,2,0,0,1,Aricanduva,300000
 1485,145,3,2,1,2,1,1,0,Aricanduva,860000
@@ -867,7 +867,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,42,2,2,1,1,0,0,0,Cidade Tiradentes,110000
 70,48,2,2,1,1,0,0,0,Cidade Tiradentes,115000
 100,50,2,2,1,1,0,0,0,Cidade Tiradentes,80000
-0,42,2,2,1,1,0,0,0,Cidade Tiradentes,110000
 0,42,1,2,1,1,0,0,0,Cidade Tiradentes,110000
 150,40,1,2,1,1,0,0,0,Cidade Tiradentes,110000
 85,47,2,2,1,1,0,0,0,Cidade Tiradentes,140000
@@ -886,7 +885,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 352,44,2,2,1,1,0,0,0,Ermelino Matarazzo,220000
 220,50,2,2,1,1,0,0,0,Ermelino Matarazzo,205000
 0,72,3,2,1,1,0,0,0,Ermelino Matarazzo,260000
-0,41,2,1,0,1,1,0,0,Ermelino Matarazzo,169900
 270,65,2,2,1,1,1,0,1,Ermelino Matarazzo,350000
 470,66,3,2,1,1,1,0,0,Ermelino Matarazzo,320000
 0,50,2,2,1,1,1,1,1,Ermelino Matarazzo,270000
@@ -923,7 +921,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 200,60,2,2,1,1,0,0,0,Guaianazes,140000
 150,42,2,2,1,1,0,0,0,Guaianazes,185000
 1093,70,2,2,1,2,1,0,0,Guaianazes,450000
-70,58,2,2,1,1,0,0,0,Guaianazes,169000
 100,56,2,2,1,1,0,0,0,Guaianazes,120000
 250,48,2,2,1,1,0,0,0,Guaianazes,130000
 120,56,2,2,1,1,0,0,0,Guaianazes,144900
@@ -933,6 +930,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 110,56,2,2,1,1,0,0,0,Guaianazes,135000
 0,38,2,2,1,1,0,0,0,Guaianazes,158000
 100,56,2,2,1,1,0,0,0,Guaianazes,144900
+1153,137,3,3,1,1,1,0,0,Iguatemi,1060000
 800,92,2,2,1,1,1,0,0,Iguatemi,790000
 0,108,3,2,1,1,0,0,0,Iguatemi,850000
 450,90,2,3,1,1,0,1,0,Iguatemi,900000
@@ -941,7 +939,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 250,50,2,2,1,1,0,0,0,Itaim Paulista,165000
 270,47,2,2,1,1,0,0,1,Itaim Paulista,240000
 0,41,2,2,1,1,0,0,0,Itaim Paulista,170000
-250,50,2,2,1,1,0,0,0,Itaim Paulista,120000
 250,50,2,2,1,1,0,0,0,Itaim Paulista,130000
 250,50,2,2,1,1,0,0,0,Itaim Paulista,150000
 260,48,3,2,1,1,0,1,1,Itaim Paulista,190000
@@ -955,7 +952,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 110,90,3,3,1,1,0,0,0,Itaim Paulista,800000
 0,43,2,2,1,1,0,0,0,Itaim Paulista,220000
 189,46,2,2,1,1,0,0,0,Itaim Paulista,168000
-0,41,2,2,1,1,0,0,0,Itaim Paulista,170000
 0,46,2,2,1,1,0,0,0,Itaim Paulista,190000
 0,48,2,2,1,1,0,1,0,Itaim Paulista,160000
 71,45,2,2,1,1,0,0,0,Itaim Paulista,140000
@@ -977,7 +973,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 250,51,2,2,1,1,1,0,1,Itaquera,241000
 0,41,2,2,1,1,1,0,0,Itaquera,149900
 0,41,2,2,1,1,1,0,1,Itaquera,169900
-0,40,2,2,1,1,1,0,0,Itaquera,174000
 0,41,2,2,1,1,1,0,0,Itaquera,174900
 0,38,2,2,1,1,0,0,0,Itaquera,159900
 300,55,2,2,1,1,0,0,0,Itaquera,220000
@@ -986,7 +981,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,41,2,2,1,1,1,0,1,Itaquera,179900
 440,50,2,2,1,1,1,0,1,Itaquera,270000
 349,65,3,2,1,1,1,0,1,Itaquera,343240
-0,41,2,2,1,1,1,0,1,Itaquera,174900
 395,64,3,2,1,1,1,0,1,Itaquera,360000
 230,55,3,2,1,1,0,0,0,Itaquera,190000
 300,55,2,2,1,1,1,0,1,Itaquera,232999
@@ -1010,7 +1004,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,36,2,2,1,1,0,1,0,Jardim Helena,159000
 0,40,2,2,1,1,0,0,0,Jardim Helena,203000
 0,38,2,1,0,1,1,0,0,Jardim Helena,147974
-0,37,2,2,1,1,0,0,0,Jardim Helena,175000
 190,45,2,2,1,1,0,0,0,Jardim Helena,120000
 200,44,2,2,1,1,0,0,1,Jardim Helena,199000
 0,40,2,2,1,1,1,0,0,Jardim Helena,203000
@@ -1036,7 +1029,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 192,45,2,2,1,1,1,0,1,Jose Bonifacio,296800
 370,45,2,2,1,1,1,0,1,Jose Bonifacio,265000
 110,56,2,2,1,1,0,0,0,Jose Bonifacio,165000
-370,45,2,2,1,1,1,0,1,Jose Bonifacio,265000
 0,152,3,4,1,2,0,0,0,Jose Bonifacio,742000
 839,70,2,2,1,1,0,0,1,Jose Bonifacio,419000
 0,38,2,2,1,1,0,0,0,Jose Bonifacio,185000
@@ -1052,13 +1044,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 195,42,1,2,1,1,0,0,0,Lajeado,130000
 400,52,2,2,1,1,0,0,0,Lajeado,185000
 0,43,2,2,1,1,0,0,0,Lajeado,155000
-0,37,2,1,0,1,1,0,0,Lajeado,144900
 270,54,2,2,1,1,0,0,0,Lajeado,150000
 240,42,1,2,1,1,0,0,0,Lajeado,168000
 0,52,3,2,1,1,0,0,0,Lajeado,180000
 150,47,2,2,1,1,0,0,0,Lajeado,160000
 270,54,2,2,1,1,0,0,0,Lajeado,169900
-225,50,2,2,1,1,0,0,0,Lajeado,165000
 170,43,3,2,1,1,0,0,0,Lajeado,160000
 225,40,2,2,1,1,0,1,0,Lajeado,45000
 220,43,2,2,1,1,0,0,0,Lajeado,180000
@@ -1068,18 +1058,14 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 60,50,2,2,1,1,0,0,1,Lajeado,200000
 400,52,2,2,1,1,0,0,0,Lajeado,190000
 0,50,2,2,1,1,1,0,1,Lajeado,205000
-225,48,2,2,1,1,0,0,0,Lajeado,165000
-400,52,2,2,1,1,0,0,0,Lajeado,190000
 280,50,2,2,1,1,0,0,0,Lajeado,190000
 0,54,2,2,1,1,0,0,0,Lajeado,165000
 250,56,2,2,1,1,0,0,0,Lajeado,219000
-270,54,2,2,1,1,0,0,0,Lajeado,169900
 0,50,2,2,1,1,1,0,1,Lajeado,198500
 0,52,2,2,1,1,0,0,0,Lajeado,190000
 150,37,2,2,1,1,0,0,0,Parque do Carmo,157900
 0,47,2,2,1,1,1,0,1,Parque do Carmo,200000
 260,46,2,2,1,1,1,0,1,Parque do Carmo,204899
-160,41,2,2,1,1,1,0,0,Parque do Carmo,149900
 160,41,2,2,1,1,1,0,0,Parque do Carmo,149900
 362,45,2,2,1,1,0,0,0,Parque do Carmo,215000
 350,47,2,2,1,1,1,0,1,Parque do Carmo,197900
@@ -1149,7 +1135,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,65,2,2,1,1,0,0,0,Ponte Rasa,250000
 185,60,2,2,1,1,1,0,0,Ponte Rasa,230000
 300,55,2,2,1,1,0,0,0,Ponte Rasa,250000
-0,40,2,2,1,1,1,0,0,Ponte Rasa,199000
 0,52,2,2,1,1,0,0,0,Ponte Rasa,230000
 300,68,2,2,1,1,1,0,0,Ponte Rasa,210000
 375,46,2,2,1,1,0,0,0,Ponte Rasa,245000
@@ -1167,11 +1152,9 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 300,55,2,2,1,1,1,0,0,Sapopemba,240000
 500,57,2,2,1,1,0,0,0,Sapopemba,234000
 0,58,2,2,1,1,0,0,0,Sapopemba,320000
-0,58,2,2,1,1,0,0,0,Sapopemba,320000
 0,56,2,2,1,1,0,0,0,Sapopemba,360000
 0,58,2,2,1,1,0,1,0,Sapopemba,250000
 500,53,2,2,1,1,0,0,0,Sapopemba,260000
-0,56,2,2,1,1,0,0,0,Sapopemba,310000
 200,45,2,2,1,1,1,0,0,Sapopemba,184900
 0,58,2,2,1,1,0,0,0,Sapopemba,189700
 480,56,2,2,1,1,1,0,1,Sapopemba,280000
@@ -1184,7 +1167,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,49,2,2,1,1,0,0,0,Sapopemba,200000
 1,60,3,2,1,1,0,0,1,Sapopemba,392000
 280,56,2,2,1,1,0,0,1,Sapopemba,355000
-0,58,2,2,1,1,0,0,0,Sapopemba,189700
 350,65,3,2,1,1,0,1,0,Sapopemba,260000
 0,44,2,2,1,1,1,0,1,Sapopemba,240000
 350,56,2,2,1,1,0,0,1,Sapopemba,315000
@@ -1202,7 +1184,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 400,78,3,2,1,1,1,0,0,Sao Lucas,399000
 0,90,3,2,1,1,0,0,0,Sao Lucas,480000
 400,64,2,2,1,1,0,0,1,Sao Lucas,370000
-350,76,3,2,1,2,1,0,0,Sao Lucas,410000
 0,60,3,2,1,1,0,0,1,Sao Lucas,358000
 580,75,3,2,1,2,0,0,1,Sao Lucas,450000
 282,64,2,2,1,1,1,0,0,Sao Lucas,340000
@@ -1210,14 +1191,12 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 350,64,2,2,1,1,0,0,0,Sao Lucas,475000
 380,75,3,2,1,2,0,0,1,Sao Lucas,450000
 400,75,3,2,1,2,1,1,1,Sao Lucas,440000
-350,76,3,2,1,2,1,0,0,Sao Lucas,410000
 350,46,2,2,1,1,1,1,1,Sao Lucas,265000
 400,75,3,2,1,2,1,0,0,Sao Lucas,450000
 0,60,3,2,1,1,0,0,1,Sao Lucas,340000
 0,51,2,2,1,1,1,0,0,Sao Lucas,280000
 350,43,2,2,1,1,0,0,0,Sao Lucas,220000
 380,75,3,2,1,1,1,1,1,Sao Lucas,450000
-350,76,3,2,1,2,1,0,0,Sao Lucas,410000
 300,65,2,2,1,1,1,1,1,Sao Lucas,385000
 200,47,2,2,1,1,1,0,1,Sao Mateus,199000
 350,65,3,2,1,1,1,0,1,Sao Mateus,240000
@@ -1230,7 +1209,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 280,53,2,2,1,1,0,1,0,Sao Mateus,155000
 280,53,2,2,1,1,0,0,0,Sao Mateus,190000
 250,44,2,2,1,1,1,1,1,Sao Mateus,200009
-0,41,2,1,0,1,1,0,0,Sao Mateus,147900
 260,47,2,2,1,1,1,0,1,Sao Mateus,195000
 260,53,2,2,1,1,0,1,0,Sao Mateus,190000
 285,45,2,2,1,1,0,0,0,Sao Mateus,180000
@@ -1310,6 +1288,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 547,65,3,2,1,1,1,0,1,Tatuape,350000
 485,60,2,2,1,1,1,0,1,Tatuape,393899
 0,50,2,2,1,1,1,0,1,Tatuape,445000
+864,127,3,5,3,2,1,1,1,Tatuape,995000
 850,124,3,2,1,2,1,0,1,Tatuape,767000
 700,78,3,2,1,2,0,0,1,Tatuape,630000
 700,132,4,4,3,3,0,0,0,Tatuape,899999
@@ -1348,7 +1327,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 150,47,2,2,1,1,0,0,0,Vila Curuca,190000
 250,46,2,2,1,1,0,0,1,Vila Curuca,240000
 200,47,2,2,1,1,1,0,1,Vila Curuca,245000
-437,57,2,2,1,1,1,0,1,Vila Curuca,239900
 280,48,2,2,1,1,0,0,0,Vila Curuca,226000
 350,50,2,2,1,1,0,0,0,Vila Curuca,240000
 430,52,2,2,1,1,1,0,1,Vila Curuca,259000
@@ -1380,6 +1358,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 580,60,2,2,1,1,1,1,1,Vila Formosa,529000
 0,55,2,2,1,1,0,0,1,Vila Formosa,453952
 890,84,3,2,1,2,0,0,0,Vila Formosa,500000
+0,117,2,3,2,3,0,0,0,Vila Formosa,1060000
 750,124,4,2,1,2,0,0,1,Vila Formosa,890000
 631,81,3,2,1,2,1,0,1,Vila Formosa,520000
 320,50,2,2,1,1,0,0,0,Vila Jacui,230000
@@ -1399,7 +1378,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,53,2,2,1,1,1,0,0,Vila Jacui,310000
 0,70,2,3,2,2,0,0,0,Vila Jacui,330000
 340,49,2,2,1,1,0,0,0,Vila Jacui,240000
-0,41,2,1,0,1,1,0,1,Vila Jacui,169900
 320,54,2,2,1,1,0,0,0,Vila Jacui,220000
 0,50,2,2,1,1,1,0,0,Vila Jacui,260000
 0,125,3,3,1,2,1,1,1,Vila Jacui,850000
@@ -1417,7 +1395,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 390,60,2,2,1,1,1,0,1,Vila Matilde,265000
 400,51,2,2,1,1,1,0,1,Vila Matilde,315900
 450,54,2,2,1,1,0,1,0,Vila Matilde,299000
-100,39,2,2,1,1,1,0,0,Vila Matilde,219900
 10,61,2,2,1,1,1,0,1,Vila Matilde,399000
 720,70,2,2,1,1,0,0,1,Vila Matilde,326000
 200,37,3,2,1,1,1,0,0,Vila Matilde,189000
@@ -1470,7 +1447,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 220,37,2,2,1,1,1,0,1,Cambuci,189000
 690,63,2,2,1,1,1,0,1,Cambuci,529000
 0,49,2,2,1,1,1,0,1,Cambuci,316387
-0,41,2,1,0,1,1,0,0,Cambuci,184900
 430,53,2,2,1,1,0,0,1,Cambuci,400000
 1150,89,2,2,1,1,0,0,0,Cambuci,490000
 638,79,3,2,1,2,1,0,1,Cambuci,694000
@@ -1480,7 +1456,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 515,63,2,2,1,1,0,0,0,Cambuci,330000
 0,46,2,2,1,1,1,0,1,Cambuci,316387
 0,41,2,2,1,1,1,0,0,Cambuci,183900
-250,45,2,2,1,1,1,0,0,Cambuci,229000
 150,40,2,2,1,1,1,0,0,Cambuci,189900
 680,144,3,4,2,1,1,0,0,Cambuci,650000
 180,45,2,2,1,1,1,0,0,Cambuci,240000
@@ -1497,10 +1472,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 290,64,2,2,1,1,1,1,1,Cambuci,360000
 340,43,1,2,1,1,0,0,0,Cambuci,200000
 150,41,2,2,1,1,1,0,0,Cambuci,183900
-200,45,2,2,1,1,1,0,0,Cambuci,229000
-0,49,2,2,1,1,1,0,1,Cambuci,316387
 630,38,1,2,1,1,1,1,1,Cambuci,470000
-250,45,2,2,1,1,1,0,0,Cambuci,229000
 534,40,1,2,1,1,1,0,0,Cambuci,240000
 250,41,2,2,1,1,1,0,0,Cambuci,207040
 1070,91,3,2,1,2,1,1,1,Cambuci,890000
@@ -1511,7 +1483,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 670,52,2,2,1,1,1,0,1,Cambuci,390000
 0,48,2,2,1,1,0,0,0,Cambuci,300000
 530,71,2,2,1,1,1,0,1,Cambuci,524900
-0,49,2,2,1,1,1,0,1,Cambuci,316387
 0,70,3,2,1,1,0,0,0,Cambuci,972611
 240,34,2,2,1,1,1,0,1,Cambuci,237000
 700,68,2,2,1,2,1,0,1,Cambuci,639999
@@ -1527,7 +1498,10 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,70,2,2,1,2,1,0,1,Campo Belo,760000
 700,53,2,2,1,2,0,0,1,Campo Belo,430000
 590,35,1,2,1,1,1,1,1,Campo Belo,550000
+1260,128,3,4,1,1,1,0,1,Campo Belo,1050000
 375,37,1,2,1,1,1,0,1,Campo Belo,377000
+495,60,1,2,1,2,0,1,1,Campo Belo,1070000
+1800,89,2,3,2,2,1,0,1,Campo Belo,1080000
 0,61,3,2,0,1,1,0,1,Campo Belo,360100
 1580,123,3,2,1,2,1,0,1,Campo Belo,965000
 710,70,2,2,1,2,1,0,1,Campo Belo,757000
@@ -1573,7 +1547,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 170,40,2,2,1,1,1,0,0,Campo Limpo,149000
 312,62,2,2,1,1,0,0,0,Campo Limpo,226000
 320,47,2,2,1,1,0,0,0,Campo Limpo,220000
-400,51,2,2,1,1,0,0,1,Campo Limpo,215000
 190,53,2,2,1,1,0,0,0,Campo Limpo,214000
 270,42,2,2,1,1,1,0,1,Campo Limpo,210000
 180,40,2,2,1,1,1,0,1,Campo Limpo,199900
@@ -1594,7 +1567,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 280,49,2,2,1,1,1,0,1,Capao Redondo,209500
 395,56,2,2,1,1,1,0,0,Capao Redondo,260000
 330,35,1,2,1,1,1,0,1,Capao Redondo,235000
-0,40,2,1,0,1,1,0,0,Capao Redondo,150290
 330,57,2,2,1,1,0,0,0,Capao Redondo,265000
 0,50,2,2,1,1,0,0,0,Capao Redondo,178000
 0,42,2,2,1,1,1,0,1,Capao Redondo,170000
@@ -1615,7 +1587,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 220,39,2,2,1,1,0,0,0,Capao Redondo,190000
 720,60,3,2,1,1,0,0,1,Capao Redondo,270000
 293,48,2,2,1,1,0,0,0,Capao Redondo,205000
-253,45,2,2,1,1,0,0,0,Capao Redondo,195000
 528,60,2,2,1,1,1,0,0,Cidade Ademar,275000
 529,60,2,2,1,1,1,0,0,Cidade Ademar,295000
 750,68,3,2,1,1,0,0,1,Cidade Ademar,299000
@@ -1637,11 +1608,9 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 492,67,3,2,1,1,0,0,0,Cidade Ademar,370000
 450,65,2,2,1,1,1,0,1,Cidade Ademar,310000
 430,62,2,2,1,1,1,0,1,Cidade Ademar,300000
-498,64,3,2,1,1,1,1,1,Cidade Ademar,330000
 500,55,2,2,1,1,0,0,1,Cidade Ademar,280000
 500,70,2,2,1,1,0,0,1,Cidade Ademar,440000
 0,146,4,2,1,2,0,0,0,Cidade Ademar,700000
-380,65,3,2,1,1,1,0,1,Cidade Ademar,320000
 700,66,3,2,1,2,1,0,1,Cidade Ademar,460000
 300,61,2,2,1,1,0,0,1,Cidade Ademar,250000
 1200,180,4,4,3,2,1,0,1,Cidade Dutra,880000
@@ -1651,10 +1620,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 250,56,3,2,1,1,0,0,0,Cidade Dutra,260000
 1211,182,3,4,3,2,1,0,1,Cidade Dutra,850000
 1200,180,4,4,3,1,1,0,1,Cidade Dutra,830000
-1200,180,4,4,3,2,1,0,1,Cidade Dutra,880000
 1211,180,3,3,1,2,1,1,1,Cidade Dutra,920000
 1200,180,4,4,3,1,1,0,1,Cidade Dutra,780000
-1211,180,3,3,1,2,1,1,1,Cidade Dutra,920000
 1350,180,4,5,3,2,0,0,1,Cidade Dutra,730000
 1210,180,3,1,3,2,1,0,1,Cidade Dutra,600000
 1211,181,3,5,3,2,0,0,1,Cidade Dutra,800000
@@ -1688,6 +1655,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 404,49,2,2,1,1,0,1,0,Cursino,219000
 0,58,2,2,1,1,0,0,1,Cursino,370000
 700,81,3,2,1,1,0,0,1,Cursino,700000
+0,93,3,2,1,3,0,0,1,Cursino,1050000
 0,68,2,2,1,1,1,0,0,Cursino,700000
 445,62,3,2,1,1,0,0,0,Cursino,265000
 0,89,3,2,1,2,0,0,0,Cursino,660000
@@ -1728,6 +1696,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,54,2,2,1,1,0,0,0,Grajau,225000
 360,56,2,2,1,1,0,0,0,Grajau,285000
 650,72,3,2,1,1,0,1,1,Ipiranga,560000
+0,108,3,3,1,2,1,1,1,Ipiranga,994000
 0,70,2,2,1,1,1,0,1,Ipiranga,735000
 1283,130,3,4,2,2,1,0,1,Ipiranga,980000
 1100,127,3,3,1,1,0,0,0,Ipiranga,700000
@@ -1744,11 +1713,16 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 530,80,3,2,1,2,1,0,1,Ipiranga,679900
 0,70,1,2,1,1,1,0,1,Ipiranga,623092
 600,70,2,2,1,1,0,0,0,Ipiranga,585000
+600,115,3,2,1,2,0,0,1,Ipiranga,1020000
 676,70,2,2,1,2,1,0,1,Ipiranga,580000
 0,74,2,3,2,1,1,0,1,Ipiranga,718000
+1700,150,3,4,2,3,1,0,1,Ipiranga,1000000
 550,72,3,2,1,1,1,0,1,Ipiranga,550000
 1685,75,1,2,1,1,0,0,1,Itaim Bibi,840000
+1387,107,3,3,1,1,1,0,0,Itaim Bibi,1020000
 813,45,1,2,1,1,1,0,1,Itaim Bibi,585000
+1095,98,2,2,1,1,0,0,0,Itaim Bibi,1049000
+700,70,1,2,1,2,1,1,1,Itaim Bibi,1050000
 600,62,2,2,1,1,0,1,1,Jabaquara,470000
 0,41,2,1,0,1,1,0,0,Jabaquara,157900
 700,63,2,2,1,1,0,0,0,Jabaquara,375000
@@ -1809,9 +1783,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 377,45,2,2,1,1,1,0,0,Jardim Angela,220000
 350,48,2,2,1,1,1,0,1,Jardim Angela,265000
 0,49,2,2,1,1,0,0,1,Jardim Angela,220000
+1380,124,3,3,1,1,1,0,0,Jardim Paulista,1080000
 350,42,1,2,1,1,1,0,0,Jardim Paulista,350000
 1250,108,3,3,1,1,0,0,0,Jardim Paulista,950000
 0,55,2,3,2,1,1,0,1,Jardim Paulista,924000
+1300,130,3,2,1,1,1,0,0,Jardim Paulista,1000000
 320,31,1,2,1,1,0,1,0,Jardim Paulista,400000
 1100,140,3,2,1,1,1,0,0,Jardim Paulista,980000
 570,34,1,2,1,1,1,0,0,Jardim Paulista,410000
@@ -1833,9 +1809,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 350,52,2,2,1,1,1,0,0,Jardim Sao Luis,200000
 0,162,3,3,1,2,0,0,1,Jardim Sao Luis,645000
 277,52,2,2,1,1,0,0,0,Jardim Sao Luis,215000
-499,73,3,2,1,1,1,0,0,Jardim Sao Luis,290000
 300,58,2,2,1,1,0,0,0,Jardim Sao Luis,250000
-499,73,3,2,1,1,1,0,0,Jardim Sao Luis,290000
 265,54,2,2,1,1,0,0,0,Jardim Sao Luis,265000
 350,52,2,2,1,1,0,0,0,Jardim Sao Luis,220000
 525,56,2,2,1,1,1,0,1,Jardim Sao Luis,246000
@@ -1855,8 +1829,10 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 260,55,2,2,1,1,0,0,0,Jardim Sao Luis,247000
 0,125,3,3,1,2,0,0,0,Jardim Sao Luis,610000
 825,72,1,2,1,2,1,1,1,Moema,945000
+1600,150,4,3,1,2,1,0,0,Moema,1000000
 815,75,2,2,1,1,1,0,0,Moema,600000
 675,70,2,2,1,2,1,1,1,Moema,850000
+0,71,2,2,0,1,1,0,1,Moema,999000
 1100,99,2,4,1,2,0,0,0,Moema,910000
 510,40,1,2,1,1,1,0,0,Moema,470000
 850,70,2,2,1,1,1,0,0,Moema,580000
@@ -1945,7 +1921,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 517,54,2,2,1,1,1,0,1,Sacoma,249000
 0,84,3,2,1,2,0,0,1,Sacoma,850000
 450,65,2,2,1,1,1,1,1,Sacoma,415000
-300,61,2,2,1,1,1,0,1,Sacoma,313296
 0,60,2,2,1,1,1,0,1,Sacoma,242629
 380,71,2,2,1,1,1,0,1,Santo Amaro,380000
 810,69,2,2,1,1,0,1,1,Santo Amaro,795000
@@ -1961,6 +1936,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 776,92,3,3,1,2,1,0,1,Santo Amaro,624900
 600,83,3,2,1,2,1,0,1,Santo Amaro,618657
 560,92,3,3,1,2,1,0,1,Santo Amaro,630000
+1000,124,3,4,1,2,0,0,0,Santo Amaro,1080000
 0,71,3,2,1,1,1,0,1,Santo Amaro,400000
 767,100,2,2,1,1,1,1,0,Santo Amaro,570000
 490,71,3,2,1,1,1,0,1,Santo Amaro,380000
@@ -2006,6 +1982,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 390,63,2,2,1,1,1,0,1,Saude,398990
 600,63,2,2,1,1,1,0,1,Saude,398850
 650,64,2,2,1,2,1,0,1,Saude,750000
+850,103,4,4,2,3,1,1,1,Saude,1060000
 0,41,2,2,1,1,1,0,1,Saude,199000
 750,72,2,2,1,2,0,0,0,Saude,620000
 480,58,2,2,1,1,1,0,1,Saude,659070
@@ -2105,7 +2082,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 500,64,3,2,1,1,0,0,0,Vila Sonia,260000
 503,67,3,2,1,1,1,0,1,Vila Sonia,503565
 0,85,3,3,1,2,1,1,1,Vila Sonia,350000
-0,38,1,1,0,1,1,0,0,Vila Sonia,155300
 0,77,3,2,1,1,0,0,0,Vila Sonia,483000
 380,50,2,2,1,1,1,0,1,Vila Sonia,384000
 580,82,3,2,1,1,1,0,1,Vila Sonia,620000
@@ -2119,7 +2095,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 360,67,3,2,1,1,1,0,1,Vila Sonia,490000
 380,50,2,2,1,1,1,0,1,Vila Sonia,385000
 580,76,2,2,1,2,1,0,1,Vila Sonia,595000
-380,50,2,2,1,1,1,0,1,Vila Sonia,385000
 880,77,2,2,1,1,0,0,1,Alto de Pinheiros,720000
 0,73,2,2,1,1,1,0,1,Alto de Pinheiros,950000
 700,73,2,2,1,1,1,0,1,Alto de Pinheiros,960000
@@ -2152,7 +2127,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,40,2,2,1,1,1,0,1,Brasilandia,179000
 392,48,2,2,1,1,1,0,1,Brasilandia,290000
 190,40,2,2,1,1,1,0,1,Brasilandia,179000
-0,41,2,1,0,1,1,0,0,Brasilandia,150900
 0,40,2,2,1,1,0,0,0,Brasilandia,184900
 480,48,2,2,1,1,0,0,0,Brasilandia,190000
 430,48,2,2,1,1,0,0,0,Brasilandia,250000
@@ -2162,7 +2136,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 315,48,2,2,1,1,0,0,0,Brasilandia,240000
 300,48,2,2,1,1,1,0,1,Brasilandia,255000
 450,48,2,2,1,1,0,0,0,Brasilandia,230000
-0,40,2,2,1,1,1,0,1,Brasilandia,179000
 350,49,2,2,1,1,1,0,0,Brasilandia,270000
 510,48,2,2,1,1,1,0,0,Brasilandia,250000
 229,51,2,2,1,1,0,0,0,Brasilandia,170000
@@ -2171,8 +2144,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 240,40,2,2,1,1,0,0,1,Brasilandia,188600
 100,50,2,2,1,1,0,0,0,Brasilandia,212000
 85,48,2,2,1,1,0,0,0,Brasilandia,140000
-0,40,2,2,1,1,0,0,0,Brasilandia,184900
-0,40,2,2,1,1,0,0,0,Brasilandia,205800
 390,55,2,2,1,1,0,0,0,Brasilandia,234000
 495,50,2,2,1,1,1,0,1,Butanta,260000
 0,66,3,2,1,1,1,0,1,Butanta,567600
@@ -2199,26 +2170,20 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,41,2,2,1,1,1,0,1,Cachoeirinha,215000
 240,41,2,2,1,1,1,0,1,Cachoeirinha,219000
 430,64,3,2,1,1,1,0,0,Cachoeirinha,320000
+0,134,4,4,0,2,1,0,1,Cachoeirinha,1078700
 270,41,2,2,1,1,1,0,1,Cachoeirinha,219000
 0,41,2,2,1,1,0,0,1,Cachoeirinha,229000
 0,41,2,2,1,1,1,0,1,Cachoeirinha,219000
-0,41,2,2,1,1,1,0,1,Cachoeirinha,219000
 230,41,2,2,1,1,1,0,1,Cachoeirinha,219000
-250,41,2,2,1,1,1,0,1,Cachoeirinha,219000
 200,41,2,2,1,1,1,0,1,Cachoeirinha,219900
 500,50,2,2,1,1,1,0,0,Cachoeirinha,260000
-240,41,2,2,1,1,1,0,1,Cachoeirinha,219000
 480,50,2,2,1,1,1,0,0,Cachoeirinha,275000
 0,47,2,2,1,1,1,0,1,Cachoeirinha,240000
 400,55,2,2,1,1,1,0,1,Cachoeirinha,339000
 452,42,2,2,1,1,1,0,1,Cachoeirinha,230000
 200,51,2,2,1,1,1,0,0,Cachoeirinha,245000
-250,41,2,2,1,1,1,0,1,Cachoeirinha,219000
 600,35,1,2,1,1,1,0,0,Cachoeirinha,185000
 190,60,2,2,1,1,0,0,0,Cachoeirinha,210000
-0,41,2,2,1,1,1,0,1,Cachoeirinha,219000
-0,41,2,2,1,1,1,0,1,Cachoeirinha,219000
-0,41,2,2,1,1,1,0,1,Cachoeirinha,219000
 520,75,3,2,1,2,1,0,1,Freguesia do O,448500
 550,74,3,3,2,2,1,0,1,Freguesia do O,449000
 600,69,3,2,1,1,1,1,1,Freguesia do O,450000
@@ -2248,14 +2213,12 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 600,70,3,2,1,1,1,0,1,Jaguare,490000
 600,62,2,2,1,1,1,0,1,Jaguare,335000
 0,70,3,2,1,1,1,0,1,Jaguare,385000
-0,70,3,2,1,1,1,0,1,Jaguare,385000
 400,50,2,2,1,1,0,0,1,Jaguare,320000
 491,70,3,2,1,1,1,0,1,Jaguare,379000
 380,54,2,2,1,1,1,0,1,Jaguare,480000
 0,62,2,2,1,1,1,0,1,Jaguare,333000
 550,66,2,2,1,1,1,0,1,Jaguare,370000
 604,84,3,2,1,2,0,0,1,Jaguare,570000
-0,62,2,2,1,1,1,0,1,Jaguare,333000
 550,50,2,2,1,1,1,1,1,Jaguare,350000
 780,70,3,2,1,2,1,0,1,Jaguare,580000
 0,62,2,2,1,1,1,0,1,Jaguare,353000
@@ -2293,6 +2256,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 1300,94,3,3,2,2,1,1,1,Lapa,850000
 390,66,2,2,1,1,1,0,0,Lapa,265000
 504,56,2,2,1,1,1,0,1,Lapa,448500
+0,134,4,3,2,2,1,0,1,Lapa,1072140
 350,55,2,2,1,1,1,0,1,Lapa,399900
 450,49,2,2,1,1,0,1,1,Lapa,389900
 385,53,2,2,1,1,1,0,1,Lapa,430000
@@ -2308,6 +2272,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 460,68,2,2,1,1,1,0,1,Lapa,620000
 300,57,2,2,1,1,0,0,0,Lapa,260000
 480,81,3,2,1,2,1,0,1,Lapa,665147
+950,101,3,3,2,2,1,0,0,Lapa,1060000
 800,117,3,3,1,1,0,0,0,Lapa,590000
 1,53,2,2,1,1,1,0,1,Limao,335600
 0,50,2,2,1,1,1,1,0,Limao,295000
@@ -2344,6 +2309,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 800,90,1,2,1,1,1,0,0,Perdizes,660000
 0,118,3,3,0,2,1,0,1,Perdizes,951600
 1250,106,3,2,1,1,1,0,0,Perdizes,835000
+1400,140,3,4,1,2,1,0,1,Perdizes,1000000
 840,109,3,3,1,2,1,0,1,Perdizes,980000
 1149,124,3,3,1,1,0,0,0,Perdizes,650000
 0,60,2,1,0,1,1,0,1,Perdizes,638000
@@ -2365,27 +2331,22 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,37,2,2,1,1,1,0,1,Perus,179000
 0,43,2,2,1,1,0,0,0,Perus,239000
 0,37,2,2,1,1,1,0,0,Perus,189000
-0,41,2,2,1,1,0,0,0,Perus,191700
-0,37,2,2,1,1,0,0,0,Perus,199000
 0,40,2,2,1,1,1,0,1,Perus,199000
 200,40,2,2,1,1,1,0,1,Perus,199000
-0,43,2,2,1,1,0,0,0,Perus,239000
 0,51,3,2,1,1,0,0,0,Perus,264900
-0,37,2,2,1,1,0,0,0,Perus,199000
-0,43,2,2,1,1,0,0,0,Perus,239000
 140,50,2,2,1,1,0,0,0,Perus,150000
-0,41,2,2,1,1,0,0,0,Perus,191700
 0,40,2,2,1,1,1,0,1,Perus,195000
 0,48,2,2,1,1,0,0,0,Perus,130000
-0,37,2,2,1,1,0,0,0,Perus,199000
-0,43,2,2,1,1,0,0,0,Perus,239000
 0,40,2,2,1,1,0,0,0,Perus,190800
 250,42,2,2,1,1,1,0,1,Perus,215000
+0,65,2,2,1,1,1,0,1,Pinheiros,1007100
 1224,93,2,3,1,2,0,0,0,Pinheiros,800000
 700,51,2,2,1,1,1,0,1,Pinheiros,690000
 587,79,3,2,1,1,1,0,0,Pinheiros,630000
+712,85,2,2,1,2,1,0,1,Pinheiros,1020000
 0,59,2,2,1,1,1,0,1,Pinheiros,786500
 760,62,2,2,1,1,0,0,0,Pinheiros,670000
+1120,88,3,2,1,2,1,0,1,Pinheiros,1080000
 700,57,1,2,1,1,0,1,0,Pinheiros,883500
 400,30,1,2,1,1,1,0,1,Pinheiros,319900
 680,68,2,2,1,1,1,0,1,Pinheiros,821000
@@ -2395,11 +2356,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 700,59,2,2,1,2,1,0,1,Pinheiros,699000
 0,78,2,2,1,1,1,0,1,Pinheiros,970000
 850,65,2,2,1,1,1,0,0,Pinheiros,470000
+0,73,2,2,1,1,0,0,0,Pinheiros,1044100
 0,57,2,2,1,1,1,0,1,Pinheiros,682100
 780,60,2,2,1,2,1,0,1,Pinheiros,736000
 415,81,2,2,1,1,1,1,0,Pinheiros,790000
 0,71,2,2,1,1,1,0,1,Pinheiros,942272
-250,43,2,2,1,1,1,0,0,Pirituba,230000
 250,43,2,2,1,1,1,0,0,Pirituba,230000
 720,50,2,2,1,1,1,0,0,Pirituba,250000
 320,62,2,2,1,1,1,1,0,Pirituba,265000
@@ -2421,7 +2382,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 138,55,2,2,1,1,0,0,0,Pirituba,100000
 189,43,2,2,1,1,1,0,0,Pirituba,190000
 400,64,3,2,1,1,1,1,0,Pirituba,360000
-0,58,2,2,1,1,1,0,1,Pirituba,320000
 0,49,2,2,1,1,0,0,1,Pirituba,269900
 320,66,2,2,1,2,1,0,0,Pirituba,399000
 445,55,3,2,1,1,1,0,0,Raposo Tavares,245000
@@ -2466,6 +2426,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 395,76,3,2,1,1,0,0,1,Rio Pequeno,395000
 450,52,2,2,1,1,1,0,1,Rio Pequeno,290000
 900,116,3,3,1,2,0,1,1,Rio Pequeno,730000
+880,151,3,5,3,2,1,0,1,Rio Pequeno,1050000
 545,67,2,2,1,2,0,1,1,Rio Pequeno,370000
 550,56,2,2,1,1,1,0,0,Rio Pequeno,320000
 775,120,3,4,2,3,0,0,0,Rio Pequeno,795000
@@ -2491,13 +2452,14 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 550,65,3,2,1,1,1,0,0,Sao Domingos,410000
 300,59,2,2,1,1,1,0,1,Sao Domingos,369000
 383,87,3,2,1,1,0,0,0,Sao Domingos,300000
-0,59,2,2,1,1,1,0,1,Sao Domingos,299000
 0,71,3,2,1,1,1,0,1,Sao Domingos,449000
 0,59,2,2,1,1,1,0,1,Sao Domingos,380000
 416,50,2,2,1,1,1,0,1,Sao Domingos,445200
+950,117,3,4,2,2,1,0,1,Vila Leopoldina,1050000
 550,69,2,2,1,2,1,0,1,Vila Leopoldina,655500
 850,78,3,2,1,2,1,0,1,Vila Leopoldina,577000
 630,75,3,2,1,2,1,1,1,Vila Leopoldina,700000
+1075,116,4,4,3,3,1,0,1,Vila Leopoldina,1080000
 880,74,3,2,1,2,0,0,1,Vila Leopoldina,690000
 935,86,3,3,1,2,1,0,1,Vila Leopoldina,830000
 400,40,1,2,1,1,1,0,1,Vila Leopoldina,356000
@@ -2530,6 +2492,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 380,43,2,1,0,1,1,0,0,Barra Funda,328000
 570,65,2,2,1,1,0,0,1,Barra Funda,665000
 800,100,3,2,1,2,0,0,1,Barra Funda,750000
+850,145,3,4,3,2,0,0,1,Barra Funda,1090000
 480,70,2,2,1,1,0,0,1,Barra Funda,660000
 1300,100,3,3,1,2,1,0,1,Barra Funda,910000
 750,83,3,2,1,2,0,1,1,Barra Funda,859000
@@ -2539,7 +2502,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 438,57,2,2,1,1,0,0,1,Barra Funda,500000
 485,47,2,1,0,1,0,0,1,Barra Funda,450000
 900,57,2,1,0,1,0,0,1,Barra Funda,320000
-500,70,3,2,1,1,1,0,1,Barra Funda,550000
 900,102,3,2,1,2,0,0,1,Barra Funda,940000
 420,70,2,3,2,2,0,0,1,Barra Funda,530000
 500,70,2,2,1,1,1,0,0,Barra Funda,550000
@@ -2570,6 +2532,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 715,98,2,1,0,1,0,0,0,Bela Vista,850000
 642,62,2,1,0,1,0,0,0,Bela Vista,430000
 465,60,1,2,1,1,0,0,1,Bela Vista,580000
+650,77,2,2,1,2,1,1,1,Bela Vista,1075000
 716,90,2,2,1,1,0,0,0,Bela Vista,850000
 1300,77,1,2,1,1,0,1,1,Bela Vista,749000
 850,74,2,1,0,1,0,0,0,Bela Vista,630000
@@ -2632,6 +2595,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 460,58,2,2,1,1,0,0,1,Bom Retiro,410000
 560,53,2,1,0,1,1,0,0,Bom Retiro,395000
 609,58,2,2,1,2,0,0,1,Bom Retiro,395000
+1650,235,4,1,0,1,0,0,0,Bom Retiro,1000000
 630,67,2,2,1,1,1,0,1,Bom Retiro,489000
 0,98,2,1,0,0,0,0,0,Bom Retiro,430000
 250,30,1,1,0,0,0,0,0,Bom Retiro,205900
@@ -2677,7 +2641,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 550,62,3,2,1,1,0,0,1,Bom Retiro,345000
 0,52,1,1,0,0,0,0,0,Bom Retiro,290000
 550,49,2,1,0,1,0,0,1,Bom Retiro,380000
-570,58,2,2,1,1,1,0,1,Bom Retiro,479000
 700,96,3,2,1,2,0,0,1,Bom Retiro,700000
 150,44,2,1,0,1,0,0,0,Bras,169002
 190,40,2,1,0,1,0,0,0,Bras,169000
@@ -2711,7 +2674,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 460,50,2,1,0,1,1,0,0,Bras,362000
 785,73,2,1,0,1,0,0,0,Bras,450000
 400,68,3,2,1,1,0,0,1,Bras,400000
-400,68,3,2,1,1,0,0,1,Bras,400000
 400,40,1,2,1,1,0,0,1,Bras,399990
 0,63,2,2,1,1,0,0,1,Bras,380000
 200,38,2,1,0,0,0,0,1,Bras,203780
@@ -2741,6 +2703,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 749,38,1,2,1,1,0,1,0,Consolacao,410000
 800,84,2,1,0,0,1,0,0,Consolacao,600000
 970,48,1,1,0,1,0,0,1,Consolacao,880000
+1227,177,4,2,0,2,1,0,0,Consolacao,1050000
 520,45,2,1,0,0,1,0,0,Consolacao,320000
 1082,86,3,1,0,1,0,0,0,Consolacao,590000
 480,60,1,1,0,1,0,0,0,Consolacao,732000
@@ -2791,8 +2754,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 400,56,1,1,0,1,0,0,0,Liberdade,320000
 0,68,2,2,1,1,0,0,0,Liberdade,750000
 0,37,2,1,0,0,1,0,1,Liberdade,189000
-0,37,2,1,0,0,1,0,1,Liberdade,189000
-0,37,2,1,0,0,1,0,1,Liberdade,189000
 950,75,3,1,0,2,0,0,1,Liberdade,795000
 400,45,2,2,1,1,0,0,1,Liberdade,300000
 553,36,1,1,0,0,0,0,0,Liberdade,265000
@@ -2800,7 +2761,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 412,38,1,1,0,1,1,0,1,Liberdade,489000
 0,38,1,1,0,1,0,0,1,Liberdade,281748
 450,45,2,1,0,1,0,1,0,Liberdade,300000
-400,45,2,2,1,1,0,0,1,Liberdade,299000
 358,55,1,1,0,0,0,1,0,Liberdade,240000
 780,78,2,1,0,1,0,1,0,Liberdade,750000
 180,37,2,1,0,0,0,0,1,Liberdade,189001
@@ -2839,7 +2799,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 480,66,2,2,1,2,0,0,0,Pari,485000
 500,62,3,1,0,1,0,0,0,Pari,450000
 380,55,2,2,1,1,1,0,1,Pari,400000
-550,83,2,2,1,2,0,0,1,Pari,690000
 400,95,3,2,1,2,0,0,1,Pari,661000
 450,65,2,2,1,2,0,1,1,Pari,570000
 400,95,3,2,1,2,0,0,1,Pari,660500
@@ -2852,6 +2811,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 450,130,3,2,1,1,0,0,0,Pari,790000
 330,30,1,2,1,1,0,0,1,Republica,240000
 320,30,1,1,0,0,0,0,1,Republica,235000
+1554,220,3,2,1,1,0,0,0,Republica,1000000
 400,48,1,1,0,1,0,0,1,Republica,419500
 350,34,1,1,0,1,0,0,1,Republica,349500
 520,57,1,1,0,0,1,0,0,Republica,290000
@@ -2867,6 +2827,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 604,94,2,1,0,0,0,0,0,Republica,600000
 320,65,1,1,0,0,0,0,0,Republica,370000
 359,47,1,1,0,0,0,0,0,Republica,310000
+1605,300,4,3,2,2,0,0,0,Republica,1020000
 370,39,1,2,1,0,0,0,1,Republica,459700
 1650,167,3,2,1,1,0,0,0,Republica,950000
 413,105,3,1,0,1,1,0,0,Republica,640000
@@ -2881,7 +2842,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,37,1,1,0,1,0,0,0,Republica,245000
 0,55,1,1,0,1,0,0,1,Republica,399000
 1100,130,2,2,1,1,0,0,0,Republica,780000
-851,93,3,1,0,0,1,0,0,Republica,475000
 0,40,1,2,1,1,0,0,1,Republica,401100
 314,54,1,1,0,0,1,0,0,Republica,385000
 510,76,2,2,0,1,1,0,0,Republica,550000
@@ -2914,11 +2874,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 550,59,2,2,1,1,0,0,1,Santa Cecilia,470000
 800,100,3,2,1,1,0,0,0,Santa Cecilia,800000
 0,36,1,1,0,0,0,0,1,Santa Cecilia,290000
-650,59,2,2,1,1,1,0,1,Santa Cecilia,595000
 1400,203,3,4,1,1,0,0,0,Santa Cecilia,890000
 500,77,2,1,0,1,0,0,0,Santa Cecilia,469900
 0,45,1,1,0,1,0,0,1,Santa Cecilia,550000
 670,43,2,1,0,1,0,0,0,Santa Cecilia,530000
+1009,101,2,1,0,1,0,0,0,Santa Cecilia,1040000
 350,36,1,1,0,1,1,0,1,Santa Cecilia,331500
 1000,100,3,1,0,1,0,0,0,Santa Cecilia,640000
 425,48,2,1,0,1,1,0,0,Santa Cecilia,600000
@@ -2940,7 +2900,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 440,45,1,1,0,0,0,0,0,Se,240000
 600,105,3,1,0,0,0,0,0,Se,335000
 490,38,1,1,0,0,0,0,0,Se,300000
-0,34,1,1,0,1,0,0,0,Se,280000
 405,48,1,1,0,0,1,0,0,Se,241000
 352,42,1,1,0,0,0,0,0,Se,180000
 340,51,2,2,1,1,0,0,1,Se,300000
@@ -3032,7 +2991,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 100,44,2,1,0,1,0,0,0,Jacana,222000
 650,58,3,2,1,1,0,0,1,Jacana,428940
 100,35,1,1,0,1,0,0,0,Jacana,160000
-100,35,1,1,0,1,0,0,0,Jacana,160000
 100,45,2,1,0,1,0,0,0,Jacana,220000
 310,48,2,1,0,1,0,1,1,Jacana,235500
 370,42,2,1,0,1,0,0,1,Jacana,236000
@@ -3045,18 +3003,9 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 600,96,3,1,0,1,0,0,0,Jacana,380000
 400,59,3,2,1,1,0,0,1,Jacana,330500
 330,59,3,2,1,1,0,0,1,Jacana,304968
-100,35,1,1,0,1,0,0,0,Jacana,160000
-100,45,2,1,0,1,0,0,0,Jacana,220000
-100,35,1,1,0,1,0,0,0,Jacana,160000
 450,75,2,1,0,2,0,0,0,Jacana,341000
-100,45,2,1,0,1,0,0,0,Jacana,220000
-100,45,2,1,0,1,0,0,0,Jacana,220000
-0,45,2,1,0,1,0,0,0,Jacana,266045
-0,45,2,1,0,1,0,0,0,Jacana,266045
-0,59,3,2,1,1,0,0,0,Jacana,335200
 0,59,3,2,1,1,0,0,0,Jacana,335200
 380,45,2,1,0,1,1,0,0,Jacana,235000
-100,35,1,1,0,1,0,0,0,Jacana,160000
 250,45,2,1,0,1,0,0,1,Jacana,281161
 390,54,2,2,1,1,0,0,1,Jacana,310000
 0,74,3,1,0,1,0,0,0,Jacana,350000
@@ -3068,10 +3017,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 400,45,2,1,0,1,0,0,1,Jacana,274000
 610,60,2,2,1,2,0,0,0,Jacana,360000
 352,67,2,1,0,1,0,0,1,Jacana,464500
-0,45,2,1,0,1,0,0,0,Jacana,266045
-0,59,3,2,1,1,0,0,0,Jacana,335200
 350,47,2,1,0,1,0,0,1,Jacana,234900
-0,45,2,1,0,1,0,0,0,Jacana,266045
 200,40,1,1,0,1,0,0,0,Jacana,150000
 270,45,2,1,0,1,0,0,1,Jacana,279000
 352,68,2,2,1,1,1,0,1,Jacana,468000
@@ -3117,7 +3063,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,82,2,1,0,1,0,0,0,Mandaqui,430000
 0,69,2,2,1,2,0,0,1,Mandaqui,460000
 0,121,3,2,1,2,0,0,0,Mandaqui,940000
-0,98,3,2,1,2,0,0,0,Mandaqui,495000
 400,64,2,2,1,1,1,0,0,Mandaqui,424900
 1023,142,3,4,3,2,0,0,1,Mandaqui,980000
 880,122,3,2,1,2,0,0,0,Mandaqui,760000
@@ -3144,12 +3089,14 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 715,100,2,1,0,1,0,0,0,Jardim Paulista,900000
 1300,84,2,2,1,1,0,0,0,Jardim Paulista,890000
 966,46,1,1,0,1,0,0,1,Jardim Paulista,690000
+1500,93,2,1,0,1,0,0,0,Jardim Paulista,1060000
 850,45,1,1,0,1,0,1,1,Jardim Paulista,851000
 1250,80,2,2,1,1,0,0,0,Moema,650000
 750,75,2,1,0,1,0,0,0,Moema,720000
 751,55,1,1,0,1,0,0,0,Moema,460000
 980,74,2,1,0,1,0,1,0,Moema,609000
 490,43,1,1,0,1,0,0,0,Moema,440000
+1093,135,3,2,1,1,0,0,1,Moema,1050000
 1150,86,2,1,0,1,0,1,0,Moema,730000
 1729,70,2,2,0,1,1,1,0,Moema,700000
 668,70,2,3,2,1,0,0,1,Moema,650000
@@ -3163,6 +3110,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 520,42,1,1,0,1,1,0,1,Moema,500000
 550,55,1,1,0,1,0,0,0,Moema,500000
 800,47,1,1,0,1,0,0,1,Moema,440000
+1800,120,3,2,1,2,0,0,1,Moema,1030000
 798,70,2,2,1,1,0,1,0,Moema,710000
 1100,86,2,3,2,1,0,0,0,Moema,850000
 700,45,1,1,0,1,0,0,0,Moema,390000
@@ -3173,6 +3121,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 1100,80,2,1,0,1,0,0,1,Moema,900000
 800,60,2,2,1,1,0,0,1,Moema,636000
 1150,78,3,2,1,1,0,0,0,Moema,700000
+1540,105,3,2,1,2,0,0,1,Moema,1050000
 1126,73,1,2,1,2,0,1,1,Moema,960000
 812,45,1,1,0,1,0,0,1,Moema,500000
 600,45,1,1,0,1,0,0,1,Moema,440000
@@ -3209,6 +3158,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 480,40,1,2,1,1,0,1,0,Perdizes,570000
 0,90,3,2,1,2,1,0,1,Perdizes,960000
 697,63,2,2,1,1,0,0,0,Perdizes,564750
+0,105,3,2,1,3,0,0,1,Perdizes,1020000
 380,58,2,1,0,1,0,0,0,Perdizes,535000
 960,72,3,2,1,1,0,0,1,Perdizes,710000
 150,80,2,1,0,0,0,0,0,Perdizes,530000
@@ -3218,11 +3168,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 500,73,2,2,1,1,0,0,0,Perdizes,700000
 558,69,2,1,0,1,0,0,0,Perdizes,585000
 1100,62,1,2,0,1,1,0,0,Perdizes,380000
+3000,170,3,4,3,3,0,0,1,Perdizes,1000000
 950,88,3,2,1,1,0,0,1,Perdizes,615000
 892,83,2,2,1,1,0,0,0,Perdizes,750000
 972,110,3,2,1,1,0,0,1,Perdizes,895000
 1100,86,3,1,0,1,1,0,0,Perdizes,668000
-1008,98,3,2,1,1,0,0,0,Perdizes,650000
 670,80,3,1,0,1,0,1,0,Perdizes,648800
 1300,105,3,2,1,2,0,1,0,Perdizes,792000
 500,55,2,1,0,0,1,0,0,Perdizes,415000
@@ -3237,9 +3187,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 1270,103,3,2,1,2,0,0,1,Perdizes,849800
 1033,95,3,2,1,2,0,0,1,Perdizes,780000
 1117,102,3,2,1,1,0,0,0,Perdizes,790000
+1368,125,3,2,1,1,0,0,0,Perdizes,1000000
 0,80,3,2,1,1,1,0,0,Perdizes,700000
 1150,140,3,2,1,2,0,1,0,Perdizes,900000
 840,80,3,1,0,1,0,0,1,Perdizes,755000
+950,86,3,2,1,2,0,0,1,Perdizes,999000
 600,112,3,1,0,1,0,0,0,Perdizes,850000
 675,55,2,1,0,1,0,0,0,Perdizes,420000
 1200,84,2,1,0,1,0,0,0,Pinheiros,798000
@@ -3274,7 +3226,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 1450,113,2,1,0,1,0,0,0,Pinheiros,760000
 400,65,2,2,1,1,0,0,1,Pinheiros,812500
 1022,70,2,1,0,1,1,0,1,Pinheiros,660000
-840,39,1,1,0,1,0,0,0,Pinheiros,505000
 550,74,2,1,0,1,1,0,0,Pinheiros,650000
 570,45,1,1,0,1,0,0,0,Pinheiros,430000
 0,76,2,2,1,1,0,0,0,Pinheiros,700000
@@ -3300,7 +3251,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 650,70,2,2,1,2,1,1,1,Mooca,499000
 0,70,2,2,1,2,1,0,0,Mooca,511000
 180,70,2,2,1,1,0,0,0,Mooca,220000
-920,98,3,2,1,2,0,0,1,Mooca,635000
 0,110,3,4,3,2,0,0,1,Mooca,810000
 0,82,3,2,1,1,0,0,0,Mooca,600000
 200,54,2,2,1,1,1,0,1,Mooca,299000
@@ -3308,12 +3258,14 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 894,71,3,2,1,2,0,0,0,Brooklin,670000
 854,75,2,3,1,2,1,0,1,Brooklin,795000
 880,55,2,2,1,1,1,0,1,Brooklin,635000
+1450,124,3,5,1,2,0,0,0,Brooklin,1080000
 600,60,2,2,1,1,1,0,0,Brooklin,542000
 6,45,1,2,1,1,1,0,0,Vila Olimpia,590000
 857,46,2,2,1,1,1,0,1,Vila Olimpia,753000
 550,35,1,2,1,1,1,0,1,Vila Olimpia,560000
 750,43,1,2,1,1,1,0,1,Vila Olimpia,690000
 679,45,1,2,1,1,1,1,0,Vila Olimpia,550000
+1300,80,3,2,1,2,1,0,1,Vila Olimpia,1079000
 200,40,2,2,1,1,0,0,1,Mooca,200000
 1100,110,3,2,1,3,0,0,1,Mooca,950000
 590,68,3,2,1,1,0,1,0,Mooca,580000
@@ -3326,14 +3278,16 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 650,68,2,1,0,1,1,0,1,Mooca,340000
 600,70,3,2,1,1,0,0,1,Mooca,479000
 565,65,2,1,0,1,0,0,0,Mooca,330000
+890,122,3,2,1,2,0,0,1,Mooca,1020000
 640,85,3,2,1,1,0,0,1,Mooca,530000
 600,59,1,1,0,1,0,0,1,Brooklin,392500
 860,56,2,1,0,1,0,0,1,Brooklin,428000
+1200,95,1,2,1,1,0,1,1,Brooklin,1010000
 450,36,1,1,0,1,0,0,0,Brooklin,460262
 550,35,1,1,0,1,0,0,1,Brooklin,369000
 0,65,2,2,1,1,0,0,1,Brooklin,592617
 750,65,2,2,1,1,0,0,1,Brooklin,650000
-0,65,2,2,1,1,0,0,1,Brooklin,592617
+1600,97,3,3,2,1,0,0,1,Brooklin,1090000
 0,67,2,2,1,1,1,0,1,Barra Funda,454377
 400,67,2,2,1,1,1,0,1,Barra Funda,449997
 400,69,2,2,1,1,1,0,1,Barra Funda,540000
@@ -3351,6 +3305,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,112,3,3,1,3,1,0,1,Barra Funda,878700
 1680,106,3,3,1,1,1,0,0,Bela Vista,800000
 600,49,1,2,1,1,1,0,1,Bela Vista,480000
+1200,103,2,3,1,2,1,1,0,Bela Vista,1000000
+1220,138,3,2,1,1,0,1,0,Bela Vista,1050000
 0,66,2,2,1,1,1,0,1,Bela Vista,610000
 731,80,2,2,1,1,0,0,0,Bela Vista,690000
 0,41,1,2,1,1,1,0,1,Bela Vista,513260
@@ -3386,8 +3342,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 500,61,3,2,1,1,0,0,0,Pari,450000
 0,39,1,2,1,1,1,0,1,Republica,380000
 250,40,1,2,1,1,1,0,1,Republica,403100
-340,31,1,2,1,1,1,0,1,Republica,297990
-340,31,1,2,1,1,1,0,1,Republica,297990
 879,113,4,3,1,1,0,1,0,Republica,650000
 460,50,2,2,1,1,0,1,0,Republica,265000
 359,47,1,2,1,1,1,0,0,Republica,310000
@@ -3416,7 +3370,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 459,66,2,2,1,2,0,0,0,Casa Verde,320000
 0,47,2,2,1,1,1,0,1,Jacana,248015
 0,45,2,2,1,1,1,0,1,Jacana,275000
-100,45,2,2,1,1,0,0,0,Jacana,220000
 350,47,2,2,1,1,0,0,0,Jacana,245000
 300,66,3,2,1,1,1,0,1,Jacana,350000
 329,45,2,2,1,1,1,0,1,Jacana,283454
@@ -3429,7 +3382,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,82,3,2,1,2,0,0,1,Mandaqui,630000
 300,54,2,2,1,1,0,0,0,Mandaqui,310000
 1,83,3,3,1,2,0,0,1,Mandaqui,655000
-0,68,3,2,1,1,0,0,1,Mandaqui,430000
 0,122,3,2,1,2,0,0,1,Mandaqui,970000
 1100,100,2,2,1,1,1,1,1,Mandaqui,700000
 950,110,3,3,1,2,0,0,1,Santana,600000
@@ -3462,15 +3414,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 700,70,3,2,1,1,1,1,1,Vila Guilherme,583000
 389,86,2,2,1,1,1,1,1,Vila Guilherme,300000
 0,64,3,2,1,1,1,0,1,Vila Maria,383958
-0,64,3,2,1,1,1,0,1,Vila Maria,383958
 0,40,1,2,1,1,1,0,1,Vila Maria,230000
-0,64,3,2,1,1,1,0,1,Vila Maria,383958
 0,64,3,2,1,1,1,0,1,Vila Maria,344000
 0,51,2,2,1,1,1,0,1,Vila Maria,308177
 0,40,1,2,1,1,1,0,1,Vila Maria,259274
-0,64,3,2,1,1,1,0,1,Vila Maria,344000
 0,50,2,2,1,1,0,0,1,Vila Maria,294411
-0,51,2,2,1,1,1,0,1,Vila Maria,308177
 800,79,3,2,1,2,1,0,1,Vila Maria,689900
 0,64,3,2,1,1,1,0,1,Vila Maria,340000
 0,81,3,2,1,2,1,0,1,Medeiros,316000
@@ -3503,13 +3451,10 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 200,48,2,2,1,1,1,0,0,Artur Alvim,175000
 340,65,3,2,1,1,1,0,1,Belem,379000
 403,43,2,2,1,1,1,0,0,Belem,210000
-270,32,1,2,1,1,1,0,1,Belem,175000
 0,56,2,2,1,1,1,0,1,Belem,319000
 390,65,3,2,1,1,1,0,1,Belem,379000
-0,38,1,2,1,1,1,0,1,Belem,235000
 350,65,3,2,1,1,1,0,1,Belem,364000
 0,38,1,2,1,1,1,0,1,Belem,229600
-0,56,2,2,1,1,1,0,1,Belem,319000
 298,44,1,2,1,1,1,0,1,Belem,255000
 340,50,2,2,1,1,1,0,1,Belem,350000
 0,60,3,2,1,1,0,0,0,Belem,342248
@@ -3536,6 +3481,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 986,103,3,2,1,2,1,0,1,Carrao,646900
 490,64,2,2,1,1,1,0,1,Carrao,410000
 350,60,3,2,1,1,1,0,1,Carrao,275000
+940,119,2,3,2,2,1,0,1,Carrao,1050000
 800,103,3,4,3,2,1,0,1,Carrao,660000
 1000,103,3,3,1,2,1,0,1,Carrao,652600
 650,72,2,2,1,2,1,0,1,Carrao,640000
@@ -3591,7 +3537,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,56,2,2,1,1,0,0,0,Lajeado,190000
 313,49,2,2,1,1,0,0,0,Lajeado,165000
 200,56,2,2,1,1,0,0,0,Lajeado,190000
-225,48,2,2,1,1,0,0,0,Lajeado,165000
 0,47,2,2,1,1,1,0,1,Parque do Carmo,206000
 400,52,2,2,1,1,1,0,0,Parque do Carmo,224900
 350,48,2,2,1,1,0,0,0,Parque do Carmo,220000
@@ -3628,14 +3573,13 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,58,2,2,1,1,0,0,1,Sao Mateus,239900
 260,58,3,2,1,1,0,0,1,Sao Mateus,239000
 1300,128,3,3,1,3,1,1,0,Sao Miguel,620000
-245,52,1,2,1,1,0,0,0,Sao Miguel,180000
-80,40,2,2,1,1,0,0,0,Sao Miguel,185000
 0,50,2,2,1,1,0,0,0,Sao Miguel,250000
 20,60,2,2,1,1,1,0,0,Sao Miguel,300000
 0,49,2,2,1,1,0,0,0,Sao Miguel,180000
 0,43,2,2,1,1,0,0,0,Sao Miguel,219000
 0,54,2,2,1,1,0,0,0,Sao Miguel,195000
 189,53,2,2,1,1,0,0,0,Sao Rafael,190000
+1250,165,4,4,3,3,1,0,1,Tatuape,1087000
 615,73,3,2,1,2,1,0,1,Tatuape,490000
 807,110,4,3,1,3,1,0,1,Tatuape,915000
 0,89,3,2,1,2,1,0,1,Tatuape,654000
@@ -3648,9 +3592,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,57,2,2,1,1,0,0,1,Vila Curuca,297000
 250,48,2,2,1,1,1,0,0,Vila Curuca,179000
 370,43,2,2,1,1,1,0,0,Vila Curuca,200000
-280,52,2,2,1,1,0,0,0,Vila Curuca,223000
 300,56,2,2,1,1,0,0,1,Vila Curuca,240000
-315,52,2,2,1,1,0,0,0,Vila Curuca,210000
 0,90,3,2,1,1,1,0,1,Vila Curuca,329000
 0,55,2,2,1,1,1,0,1,Vila Curuca,250000
 150,47,2,2,1,1,0,0,0,Vila Curuca,208000
@@ -3729,6 +3671,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 260,47,2,2,1,1,1,1,0,Cidade Ademar,315000
 420,61,2,2,1,1,0,0,1,Cidade Ademar,310000
 500,50,2,2,1,1,0,0,0,Cidade Ademar,290000
+1210,189,3,4,3,2,0,0,0,Cidade Dutra,1000000
 460,55,2,2,1,1,0,0,0,Cidade Dutra,280000
 0,54,2,2,1,1,0,0,0,Cidade Dutra,240000
 350,56,2,2,1,1,0,0,0,Cidade Dutra,260000
@@ -3747,6 +3690,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 780,108,3,3,2,2,1,0,1,Ipiranga,915000
 521,69,2,2,1,1,1,0,1,Ipiranga,529000
 676,70,2,2,1,1,1,0,1,Ipiranga,645000
+0,115,3,3,1,2,1,0,1,Ipiranga,1080000
 570,93,3,3,1,2,1,0,1,Ipiranga,719000
 583,54,2,2,1,1,0,0,0,Ipiranga,319999
 650,55,2,2,1,2,0,0,1,Ipiranga,480000
@@ -3772,6 +3716,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 201,60,3,2,1,1,0,0,0,Jardim Sao Luis,275000
 350,58,2,2,1,1,1,0,0,Jardim Sao Luis,240000
 0,45,2,2,1,1,0,0,0,Jardim Sao Luis,145000
+0,104,3,2,1,2,0,0,1,Moema,1060000
 800,68,2,2,1,1,0,0,1,Moema,670000
 990,95,2,3,1,1,1,0,0,Moema,820000
 1000,65,2,2,1,1,1,1,0,Moema,720000
@@ -3779,6 +3724,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,70,2,2,1,1,0,0,0,Moema,620000
 1042,100,3,2,1,2,0,0,1,Moema,894000
 780,55,2,2,1,2,0,0,1,Moema,660000
+2270,115,3,4,1,2,1,0,1,Moema,1060000
+691,75,2,2,1,2,1,1,1,Moema,1070000
 665,111,3,3,1,2,1,0,1,Morumbi,623000
 680,70,3,2,1,1,1,0,1,Morumbi,260000
 750,86,3,3,1,2,0,0,1,Morumbi,369000
@@ -3823,13 +3770,10 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 780,70,3,2,1,1,1,1,1,Saude,425000
 750,71,2,2,1,2,0,0,1,Saude,750000
 0,65,3,2,1,1,1,0,1,Socorro,237720
-0,51,2,2,1,1,0,0,0,Socorro,98815
 325,47,2,2,1,1,1,0,1,Vila Andrade,270000
 435,47,2,2,1,1,1,0,1,Vila Andrade,262300
-407,47,2,2,1,1,1,0,1,Vila Andrade,260000
 0,184,3,4,3,4,1,0,1,Vila Andrade,900000
 799,68,2,2,1,2,1,0,1,Vila Andrade,465000
-435,47,2,2,1,1,1,0,1,Vila Andrade,262300
 367,49,2,2,1,1,1,0,1,Vila Andrade,294000
 1000,122,4,1,3,2,1,0,1,Vila Andrade,747800
 875,87,2,3,2,2,1,0,1,Vila Andrade,595000
@@ -3852,7 +3796,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 640,82,3,2,1,2,1,0,1,Vila Sonia,590000
 500,50,2,2,1,1,0,0,0,Vila Sonia,315000
 580,80,2,2,1,2,0,0,0,Vila Sonia,573000
-0,106,3,2,1,2,0,0,0,Alto de Pinheiros,950000
+1183,105,3,3,1,2,0,0,0,Alto de Pinheiros,1015000
 900,86,3,3,1,2,1,1,1,Alto de Pinheiros,950000
 1200,106,3,2,1,2,0,0,1,Alto de Pinheiros,970000
 750,75,3,2,1,1,1,0,1,Anhanguera,450000
@@ -3888,13 +3832,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 650,70,3,2,1,1,1,0,1,Jaguare,480000
 460,63,2,2,1,1,1,0,1,Jaguare,347218
 465,57,3,2,1,1,1,0,1,Jaguare,320000
-0,70,3,2,1,1,1,0,1,Jaguare,385000
 550,60,2,2,1,1,0,0,1,Jaguare,350000
 550,82,3,3,1,2,1,0,0,Jaguare,457860
 460,57,2,2,1,1,1,0,1,Jaragua,456000
 580,58,1,2,1,1,1,1,1,Jaragua,464000
 740,134,4,5,2,2,1,0,1,Lapa,950000
-350,55,2,2,1,1,1,0,1,Lapa,403811
 896,61,2,2,1,1,0,0,1,Lapa,490000
 0,81,3,2,1,2,1,0,1,Lapa,685719
 800,117,3,3,1,1,0,0,0,Lapa,580000
@@ -3911,12 +3853,12 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 990,85,3,4,1,2,1,0,1,Perdizes,851000
 600,59,2,2,1,1,1,0,1,Perdizes,625000
 1116,130,3,3,1,2,1,0,0,Perdizes,800000
-0,37,2,2,1,1,0,0,0,Perus,199000
 230,44,2,2,1,1,0,0,1,Perus,187900
 230,44,2,2,1,1,0,0,1,Perus,185900
 230,44,2,2,1,1,0,0,1,Perus,183900
 1200,84,2,2,1,1,0,0,0,Pinheiros,880000
 392,35,1,2,1,1,1,0,1,Pinheiros,560000
+0,73,2,2,1,1,1,0,1,Pinheiros,1094000
 1000,63,2,2,1,1,1,1,1,Pinheiros,800000
 1000,96,2,2,1,1,0,0,0,Pinheiros,700000
 0,71,2,2,1,1,0,0,1,Pinheiros,958980
@@ -3946,7 +3888,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 418,64,2,2,1,2,1,0,1,Sao Domingos,369000
 530,65,3,2,1,1,1,0,0,Sao Domingos,390000
 350,52,2,2,1,1,0,0,1,Sao Domingos,330000
-500,73,3,2,1,2,1,0,1,Sao Domingos,600000
 350,59,2,2,1,1,1,0,1,Sao Domingos,350000
 550,56,2,2,1,1,1,1,1,Sao Domingos,290000
 615,50,2,2,1,1,0,0,1,Sao Domingos,259000
@@ -3966,9 +3907,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 400,67,2,2,1,1,1,0,1,Barra Funda,452161
 569,53,2,1,0,1,0,1,1,Barra Funda,475000
 0,50,2,1,0,1,0,0,0,Barra Funda,369000
-0,50,2,1,0,1,0,0,0,Barra Funda,369000
+800,145,4,2,3,3,0,0,1,Barra Funda,1090000
 740,79,2,1,0,1,0,0,0,Barra Funda,420000
-200,34,2,1,0,0,0,0,0,Barra Funda,210000
 210,31,1,1,0,0,0,0,0,Barra Funda,178000
 454,70,3,2,1,1,0,0,1,Barra Funda,620000
 1026,93,3,3,1,2,0,0,1,Barra Funda,770000
@@ -3986,7 +3926,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 690,70,2,2,1,2,0,1,1,Barra Funda,600000
 600,86,2,1,0,1,0,0,0,Barra Funda,600000
 550,62,2,2,1,1,0,0,1,Barra Funda,595000
-400,67,2,2,1,1,1,0,1,Barra Funda,452161
 721,34,1,1,0,1,0,0,1,Barra Funda,380000
 210,68,1,1,0,0,0,0,0,Bela Vista,349000
 345,39,1,1,0,0,0,0,0,Bela Vista,249000
@@ -4016,7 +3955,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 510,45,1,1,0,1,0,0,0,Bela Vista,369000
 482,75,2,1,0,1,0,0,0,Bela Vista,590000
 390,30,1,1,0,1,0,1,0,Bela Vista,245000
-850,74,2,1,0,1,0,0,0,Bela Vista,630000
 780,94,2,2,1,1,0,0,0,Bela Vista,800000
 650,156,3,2,1,1,1,0,0,Bom Retiro,480000
 700,97,3,2,1,2,1,0,1,Bom Retiro,750000
@@ -4040,6 +3978,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,56,1,2,1,1,0,0,1,Bom Retiro,362000
 500,65,3,2,1,1,0,1,1,Bom Retiro,445000
 720,97,3,1,0,2,0,0,0,Bom Retiro,800000
+2200,200,4,2,1,2,1,0,0,Bom Retiro,1015000
 700,68,2,2,1,2,1,1,1,Bom Retiro,435000
 240,97,2,1,0,0,0,0,0,Bom Retiro,368000
 578,60,1,1,0,1,0,1,0,Bom Retiro,479000
@@ -4078,8 +4017,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 480,196,4,3,1,1,0,0,0,Bras,650000
 350,63,2,2,1,1,0,0,1,Bras,358900
 240,44,2,1,0,1,0,0,1,Bras,235000
-0,32,1,2,1,1,0,0,0,Bras,240000
-0,32,1,2,1,1,0,0,0,Bras,240000
 370,50,2,1,0,1,0,0,0,Bras,230000
 370,50,2,1,0,1,0,0,0,Bras,320000
 390,65,3,2,1,1,0,0,1,Bras,360000
@@ -4094,7 +4031,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 352,31,1,1,0,1,0,0,0,Bras,280000
 0,65,3,2,1,1,0,0,0,Bras,400000
 655,68,3,2,1,1,1,0,1,Bras,535000
-950,54,1,2,1,2,0,1,1,Bras,360000
 0,50,2,1,0,1,1,0,0,Bras,350000
 350,33,1,1,0,0,0,1,0,Bras,225000
 0,57,2,1,0,1,0,0,1,Bras,394000
@@ -4107,7 +4043,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 738,39,1,1,0,1,0,0,0,Consolacao,300000
 400,40,1,1,0,1,0,1,1,Consolacao,480000
 365,35,1,1,0,1,0,1,1,Consolacao,390000
-440,56,1,1,0,0,0,0,0,Consolacao,450000
 450,70,2,1,0,1,0,0,0,Consolacao,435000
 650,38,1,1,0,1,0,0,1,Consolacao,425000
 910,110,2,1,0,1,0,0,0,Consolacao,850000
@@ -4158,7 +4093,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 400,50,1,2,1,1,0,0,1,Republica,445000
 500,49,1,1,0,1,0,0,1,Republica,640000
 450,45,1,1,0,1,0,0,1,Republica,485000
-359,47,1,1,0,0,0,0,0,Republica,310000
 400,45,1,2,1,1,0,0,1,Republica,435900
 560,57,1,1,0,0,1,0,0,Republica,350000
 480,70,2,1,0,0,0,0,0,Republica,368000
@@ -4211,6 +4145,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 500,58,2,1,0,1,0,0,0,Casa Verde,275000
 0,49,1,1,0,1,0,0,0,Casa Verde,480000
 0,96,3,2,1,1,0,0,1,Casa Verde,530000
+1900,192,4,3,2,2,1,1,1,Casa Verde,1070000
 890,90,3,2,1,2,0,0,1,Casa Verde,620000
 585,60,2,1,0,1,0,0,1,Casa Verde,260000
 450,60,2,1,0,1,0,0,1,Casa Verde,350000
@@ -4235,7 +4170,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 1050,90,3,2,1,2,0,0,1,Casa Verde,645000
 900,105,2,2,1,1,0,0,1,Casa Verde,542000
 964,88,3,2,1,1,0,0,0,Casa Verde,480000
-895,83,3,2,1,2,0,0,0,Casa Verde,500000
 0,50,2,1,0,1,0,0,0,Jacana,228000
 600,78,2,1,0,1,0,0,0,Jacana,270000
 350,67,3,2,1,1,0,0,1,Jacana,359000
@@ -4263,6 +4197,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,78,3,2,1,2,0,0,0,Mandaqui,457000
 0,92,3,2,1,2,0,0,0,Mandaqui,730000
 0,142,3,4,3,3,0,0,0,Mandaqui,840000
+0,200,3,2,1,3,0,0,1,Mandaqui,1000000
 800,75,3,2,1,2,0,0,1,Mandaqui,420000
 960,70,2,2,1,1,0,0,1,Mandaqui,310000
 0,49,2,1,0,1,0,0,1,Mandaqui,301600
@@ -4285,8 +4220,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,160,4,2,1,2,0,0,1,Mandaqui,805000
 485,58,2,1,0,1,0,0,1,Mandaqui,400000
 350,38,1,1,0,1,0,0,0,Mandaqui,215000
-0,82,3,2,1,2,0,0,1,Mandaqui,630000
 600,68,2,2,1,1,0,0,1,Mandaqui,404000
+0,122,3,2,1,2,0,0,1,Mandaqui,1050000
 790,135,3,4,3,2,0,1,1,Santana,949000
 0,80,3,2,1,2,0,0,1,Santana,725000
 720,72,2,1,0,1,0,0,0,Santana,395000
@@ -4316,10 +4251,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 489,51,2,1,0,1,0,0,1,Tremembe,266000
 0,70,2,2,1,1,0,0,1,Tremembe,585000
 420,58,2,1,0,1,0,0,0,Tremembe,270000
+0,106,3,2,1,2,0,0,1,Tremembe,1045000
 350,47,2,1,0,1,0,1,0,Tremembe,373000
-0,59,2,2,1,1,0,0,1,Tremembe,380000
-0,59,2,2,1,1,0,0,1,Tremembe,420000
-0,59,2,2,1,1,0,0,1,Tremembe,500000
 420,55,2,1,0,1,1,0,0,Tremembe,275000
 600,64,2,2,0,1,0,0,0,Tucuruvi,320000
 0,101,3,2,1,2,0,0,1,Tucuruvi,424000
@@ -4399,7 +4332,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 300,50,2,1,0,1,0,0,1,Vila Maria,317700
 300,47,2,1,0,1,0,0,1,Vila Maria,372000
 560,80,3,2,1,2,0,0,1,Vila Maria,530000
-300,50,2,1,0,1,0,0,1,Vila Maria,317700
 0,45,2,1,0,1,0,0,1,Vila Maria,339500
 390,86,3,2,1,1,1,0,1,Vila Maria,473000
 190,39,1,1,0,1,0,0,1,Vila Maria,251722
@@ -4412,7 +4344,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,65,3,2,1,2,0,1,0,Vila Maria,535000
 350,48,2,1,0,1,0,0,0,Medeiros,235000
 350,48,2,1,0,1,0,0,1,Medeiros,235000
-350,48,2,1,0,1,0,0,1,Medeiros,235000
 380,48,2,1,0,1,0,0,1,Medeiros,300000
 600,68,3,2,1,1,1,1,1,Medeiros,341000
 280,47,2,1,0,1,0,0,1,Medeiros,234000
@@ -4424,12 +4355,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 520,58,3,2,1,1,0,0,1,Medeiros,273775
 380,58,3,2,1,1,0,0,1,Medeiros,280000
 406,58,3,2,1,1,0,0,1,Medeiros,286000
-520,58,3,2,1,1,0,0,1,Medeiros,273775
-520,58,3,2,1,1,0,0,1,Medeiros,273775
 375,60,2,1,0,1,0,0,0,Medeiros,199000
 280,47,2,1,0,1,0,0,1,Medeiros,235000
 528,70,1,2,1,1,0,1,1,Agua Rasa,578000
 670,93,3,2,1,2,0,1,1,Agua Rasa,746000
+700,104,3,4,3,2,0,0,0,Agua Rasa,1015000
 0,51,2,1,0,1,0,0,0,Agua Rasa,275000
 0,47,2,1,0,1,0,1,1,Agua Rasa,304000
 501,76,3,2,1,2,0,0,0,Agua Rasa,620000
@@ -4438,7 +4368,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 1200,160,2,2,1,2,0,0,1,Agua Rasa,850000
 1200,130,3,2,1,3,0,1,1,Agua Rasa,900000
 670,115,3,3,1,2,0,1,1,Agua Rasa,970000
-0,47,2,1,0,1,0,1,1,Agua Rasa,304000
 830,114,3,3,1,2,0,1,1,Agua Rasa,850000
 790,113,3,2,1,2,0,1,1,Agua Rasa,890000
 700,104,3,4,3,2,1,1,1,Agua Rasa,955000
@@ -4481,7 +4410,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 290,45,2,1,0,1,0,0,1,Aricanduva,199000
 280,50,2,1,0,1,0,0,0,Aricanduva,250000
 290,50,2,1,0,1,0,0,0,Aricanduva,202000
-100,50,2,1,0,1,1,0,0,Aricanduva,250000
 250,47,2,1,0,1,0,0,1,Aricanduva,199000
 0,90,2,2,0,1,0,0,0,Aricanduva,400000
 325,56,3,1,0,1,0,0,0,Aricanduva,249900
@@ -4519,13 +4447,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,37,2,1,0,0,0,0,0,Artur Alvim,178999
 150,56,2,1,0,1,0,0,0,Artur Alvim,210000
 160,56,2,1,0,1,0,0,0,Artur Alvim,195000
-140,56,2,1,0,1,0,0,0,Artur Alvim,190000
 100,56,3,1,0,1,0,0,0,Artur Alvim,212000
 200,48,2,1,0,1,0,0,0,Artur Alvim,180000
 160,56,2,1,0,1,0,0,0,Artur Alvim,240000
 200,57,2,1,0,1,0,0,0,Artur Alvim,229000
 0,48,2,1,0,1,0,0,0,Artur Alvim,150000
-160,56,2,1,0,1,0,0,0,Artur Alvim,195000
 130,48,2,1,0,1,0,0,0,Artur Alvim,180000
 0,45,2,1,0,0,0,0,0,Artur Alvim,189000
 120,45,2,1,0,1,0,0,0,Artur Alvim,172000
@@ -4533,7 +4459,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 100,57,2,1,0,1,0,0,0,Artur Alvim,200000
 150,49,2,1,0,1,0,0,0,Artur Alvim,180000
 160,42,2,1,0,1,1,0,0,Artur Alvim,156600
-150,48,2,2,1,1,0,0,0,Artur Alvim,185000
 150,48,2,1,0,1,0,0,0,Artur Alvim,165000
 80,32,1,1,0,0,0,0,0,Artur Alvim,169900
 160,48,2,1,0,1,0,0,0,Artur Alvim,175000
@@ -4552,8 +4477,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,54,1,1,0,1,0,0,0,Belem,375000
 0,55,2,2,1,1,0,0,0,Belem,322000
 0,65,3,2,1,1,0,0,0,Belem,379000
-0,65,3,2,1,1,0,0,0,Belem,379000
 0,170,3,2,1,1,0,0,0,Belem,480000
+610,96,3,2,1,2,0,1,1,Belem,1070000
 550,68,2,2,1,1,0,0,1,Belem,480000
 600,78,3,1,0,1,0,0,0,Belem,470000
 690,95,3,3,1,2,0,0,0,Belem,780000
@@ -4592,8 +4517,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 500,40,1,1,0,1,0,0,1,Cangaiba,215000
 620,52,2,1,0,1,0,0,1,Cangaiba,290000
 320,43,2,1,0,1,0,0,0,Cangaiba,195000
-200,46,2,1,0,1,0,0,0,Cangaiba,199900
-200,46,2,1,0,1,0,0,0,Cangaiba,199900
 380,54,2,1,0,1,0,0,0,Cangaiba,240000
 485,55,2,1,0,1,0,0,1,Cangaiba,310000
 420,49,2,1,0,1,0,0,0,Cangaiba,350000
@@ -4694,7 +4617,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,42,1,1,0,1,0,0,0,Cidade Tiradentes,110000
 0,56,2,1,0,1,0,0,0,Cidade Tiradentes,122000
 0,47,2,1,0,0,0,0,0,Cidade Tiradentes,47481
-180,35,2,1,0,0,1,0,0,Cidade Tiradentes,139900
 0,45,2,1,0,1,0,0,0,Cidade Tiradentes,135000
 150,45,2,1,0,1,1,0,0,Cidade Tiradentes,140000
 120,52,2,1,0,1,0,0,0,Cidade Tiradentes,128000
@@ -4747,7 +4669,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,44,2,1,0,1,0,0,0,Ermelino Matarazzo,180000
 300,44,2,1,0,1,1,0,0,Ermelino Matarazzo,260000
 0,67,2,1,0,1,1,0,1,Ermelino Matarazzo,318000
-0,48,2,1,0,1,0,0,1,Ermelino Matarazzo,250000
 350,64,2,1,0,1,0,0,0,Ermelino Matarazzo,280000
 0,56,2,1,0,1,0,0,1,Ermelino Matarazzo,210000
 150,41,2,1,0,0,0,0,0,Ermelino Matarazzo,169900
@@ -4829,7 +4750,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 180,41,2,1,0,0,0,0,1,Itaquera,179900
 170,44,2,1,0,1,0,0,1,Itaquera,178000
 340,50,2,1,0,1,1,0,0,Itaquera,238000
-150,41,2,1,0,0,0,0,0,Itaquera,149900
 280,48,2,1,0,1,0,0,0,Itaquera,210000
 150,41,2,1,0,1,0,0,0,Itaquera,204900
 170,40,2,1,0,1,0,0,0,Itaquera,151900
@@ -4865,7 +4785,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 270,55,2,2,1,1,0,0,1,Jose Bonifacio,233999
 300,57,2,2,1,1,0,0,1,Jose Bonifacio,243999
 150,55,3,1,0,1,0,0,0,Jose Bonifacio,186000
-150,41,2,1,0,1,0,0,0,Jose Bonifacio,159000
 150,41,2,1,0,1,0,0,0,Jose Bonifacio,159000
 100,48,2,1,0,1,0,0,0,Jose Bonifacio,150000
 0,50,2,1,0,1,0,0,0,Lajeado,200000
@@ -4905,11 +4824,8 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 200,47,2,2,1,1,1,0,1,Parque do Carmo,236802
 200,47,2,2,1,1,0,0,0,Parque do Carmo,234900
 350,58,3,2,1,1,0,0,1,Parque do Carmo,239000
-180,41,2,1,0,0,1,0,0,Parque do Carmo,147900
-245,51,2,2,1,1,0,0,1,Parque do Carmo,199900
 390,49,2,1,0,1,0,0,1,Parque do Carmo,230000
 330,46,2,1,0,1,0,0,1,Parque do Carmo,220000
-0,47,2,1,0,0,0,0,0,Parque do Carmo,236802
 0,47,2,1,0,0,0,0,0,Parque do Carmo,236802
 400,52,2,1,0,1,1,0,0,Parque do Carmo,212000
 0,45,2,1,0,1,0,0,1,Parque do Carmo,195999
@@ -4926,6 +4842,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 330,69,2,2,1,1,0,0,1,Penha,270000
 100,57,2,1,0,1,1,0,0,Penha,270000
 350,50,2,1,0,1,0,1,1,Penha,255000
+0,270,3,4,3,3,1,0,0,Penha,1020000
 330,62,3,2,1,2,0,0,1,Penha,270000
 180,47,2,1,0,0,0,0,0,Penha,250000
 250,64,3,2,1,1,0,0,1,Penha,289000
@@ -4986,19 +4903,13 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 350,56,2,2,1,1,0,0,1,Sapopemba,310000
 398,56,2,1,0,1,0,0,0,Sapopemba,335000
 360,56,2,1,0,1,0,0,0,Sapopemba,335000
-398,56,2,1,0,1,0,0,0,Sapopemba,335000
 330,56,2,2,1,1,0,0,0,Sapopemba,375000
 280,56,2,1,0,1,0,0,1,Sapopemba,295000
 330,56,2,1,0,1,0,0,0,Sapopemba,355000
 402,56,2,1,0,1,0,0,0,Sapopemba,335000
 330,56,2,1,0,1,0,0,0,Sapopemba,360000
-330,56,2,1,0,1,0,0,0,Sapopemba,355000
-402,56,2,1,0,1,0,0,0,Sapopemba,335000
 407,52,2,1,0,1,0,0,0,Sapopemba,280000
-330,56,2,1,0,1,0,0,0,Sapopemba,355000
-330,56,2,1,0,1,0,0,0,Sapopemba,355000
 300,65,2,1,0,1,0,0,0,Sapopemba,285000
-330,56,2,1,0,1,0,0,0,Sapopemba,355000
 240,52,2,1,0,1,0,0,1,Sao Lucas,202000
 0,51,2,1,0,1,0,0,1,Sao Lucas,314000
 380,75,3,2,1,2,0,1,0,Sao Lucas,469000
@@ -5065,7 +4976,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 0,37,2,1,0,1,0,0,1,Sao Mateus,190000
 280,58,3,2,1,1,0,0,1,Sao Mateus,313967
 0,37,1,1,0,1,0,0,1,Sao Mateus,179000
-0,37,1,1,0,1,0,0,1,Sao Mateus,179000
 392,47,2,1,0,1,0,0,0,Sao Mateus,230000
 290,44,2,1,0,1,0,0,1,Sao Mateus,212000
 250,44,1,1,0,1,0,0,0,Sao Mateus,215000
@@ -5083,7 +4993,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 315,48,2,1,0,1,0,0,0,Sao Mateus,220000
 200,53,2,1,0,1,0,0,0,Sao Mateus,225000
 230,51,2,1,0,1,0,0,0,Sao Mateus,230000
-0,40,2,1,0,1,0,0,1,Sao Mateus,189000
 0,40,2,1,0,1,0,0,0,Sao Mateus,196900
 350,47,2,1,0,1,0,0,0,Sao Mateus,200000
 290,50,2,1,0,1,0,0,1,Sao Mateus,240000
@@ -5093,7 +5002,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 280,48,2,1,0,1,1,0,0,Sao Mateus,189000
 269,50,2,1,0,1,0,0,1,Sao Mateus,245000
 304,50,2,1,0,1,0,0,1,Sao Mateus,250000
-0,40,2,1,0,1,0,0,1,Sao Mateus,189000
 260,51,2,1,0,1,0,1,0,Sao Mateus,210000
 300,56,2,1,0,1,0,0,0,Sao Mateus,180000
 0,49,2,1,0,1,0,0,0,Sao Mateus,169000
@@ -5177,7 +5085,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 260,51,2,1,0,1,0,0,0,Vila Curuca,205700
 459,57,2,1,0,1,0,0,1,Vila Curuca,297000
 260,51,2,1,0,1,0,0,0,Vila Curuca,208500
-459,57,2,1,0,1,0,0,1,Vila Curuca,297000
 230,51,2,2,1,1,0,0,0,Vila Curuca,217000
 0,50,2,1,0,1,0,0,0,Vila Curuca,195000
 0,62,3,2,1,1,0,0,1,Vila Curuca,330000
@@ -5240,7 +5147,6 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 100,47,2,1,0,1,1,0,0,Vila Jacui,241400
 100,48,2,1,0,1,1,0,0,Vila Jacui,241400
 100,47,2,2,1,1,1,0,0,Vila Jacui,233750
-100,47,2,2,1,1,1,0,0,Vila Jacui,233750
 100,48,2,1,0,1,1,0,0,Vila Jacui,238000
 100,47,2,1,0,1,1,0,0,Vila Jacui,238000
 100,48,2,1,0,1,1,0,0,Vila Jacui,221000
@@ -5296,6 +5202,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 400,60,2,1,0,1,1,0,0,Vila Prudente,298000
 570,96,3,2,1,2,0,0,1,Vila Prudente,720000
 0,60,2,2,1,1,0,0,1,Vila Prudente,440000
+0,185,3,4,3,3,0,0,1,Vila Prudente,1070000
 425,55,3,2,1,1,0,0,0,Vila Prudente,410000
 565,91,3,2,1,2,1,1,1,Vila Prudente,735000
 550,69,3,2,1,1,0,1,0,Vila Prudente,470000
@@ -5443,9 +5350,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 520,65,3,1,0,1,0,1,1,Cidade Ademar,328000
 437,74,2,2,1,1,0,0,1,Cidade Ademar,680000
 639,74,3,1,0,1,0,0,1,Cidade Ademar,360000
-450,107,3,2,1,2,0,0,0,Cidade Ademar,660000
 450,107,3,2,1,2,0,0,0,Cidade Ademar,685000
-450,107,3,2,1,2,0,0,0,Cidade Ademar,690000
 875,81,2,3,2,2,1,0,1,Cidade Ademar,370000
 200,47,2,1,0,1,0,0,0,Cidade Ademar,230000
 450,101,3,2,1,2,1,0,0,Cidade Ademar,660000
@@ -5480,6 +5385,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 245,62,3,1,0,1,0,0,0,Cidade Dutra,265000
 1350,181,4,4,3,2,0,0,1,Cidade Dutra,780000
 320,65,3,1,0,1,0,0,0,Cidade Dutra,270000
+650,95,3,3,2,2,1,0,1,Cidade Dutra,1000000
 1200,180,3,4,3,2,0,0,1,Cidade Dutra,860000
 260,62,2,1,0,1,0,0,0,Cidade Dutra,280000
 400,63,3,1,0,1,0,0,0,Cidade Dutra,276000
@@ -5511,6 +5417,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 500,60,3,1,0,1,0,0,1,Cursino,309990
 500,51,2,2,1,1,0,0,1,Cursino,320000
 430,52,2,1,0,1,1,0,0,Cursino,212000
+900,103,3,2,1,2,0,0,1,Cursino,995000
 200,52,2,1,0,0,0,0,0,Grajau,245000
 285,50,2,1,0,1,1,0,0,Grajau,250000
 320,55,3,1,0,0,0,0,0,Grajau,260000
@@ -5530,9 +5437,11 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 340,42,1,2,1,1,0,1,1,Ipiranga,390000
 650,69,2,2,1,1,0,0,1,Ipiranga,542000
 1700,46,1,2,1,1,0,0,1,Itaim Bibi,500000
+1400,100,3,2,1,2,1,0,0,Itaim Bibi,1050000
 744,70,1,2,1,1,0,0,1,Itaim Bibi,585000
 785,63,2,1,0,1,0,0,0,Itaim Bibi,550000
 750,49,1,1,0,1,0,0,0,Itaim Bibi,640000
+1030,85,2,2,1,1,0,0,0,Itaim Bibi,1012000
 0,90,3,2,1,2,0,0,1,Jabaquara,559000
 642,54,2,1,0,1,0,0,1,Jabaquara,360000
 650,89,3,2,1,2,1,0,1,Jabaquara,540000
@@ -5559,6 +5468,7 @@ Condo,Size,Rooms,Toilets,Suites,Parking,Elevator,Furnished,Swimming Pool,Distric
 1250,114,3,2,1,2,0,0,1,Jabaquara,595000
 580,73,3,2,1,2,0,0,0,Jabaquara,530000
 580,53,2,1,0,1,0,0,0,Jabaquara,299000
+860,102,3,2,1,2,0,0,1,Jabaquara,995000
 480,55,2,1,0,1,0,0,0,Jabaquara,280000
 554,68,2,1,0,1,0,0,0,Jabaquara,350000
 996,86,3,2,1,2,0,0,1,Jabaquara,800000

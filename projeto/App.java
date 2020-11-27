@@ -200,6 +200,7 @@ public class App extends JFrame {
 		contentPane.add(btnSimular);
 		
 		JButton btnSalvar = new JButton("Salvar");
+		btnSalvar.setEnabled(false);
 		btnSalvar.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		btnSalvar.setBounds(446, 618, 135, 45);
 		contentPane.add(btnSalvar);

@@ -1,8 +1,6 @@
 package projeto;
 
-import java.text.NumberFormat;
-
-import weka.classifiers.trees.RandomForest;
+import weka.classifiers.functions.MultilayerPerceptron;
 import weka.core.DenseInstance;
 import weka.core.Instance;
 import weka.core.Instances;
@@ -17,9 +15,10 @@ public class Previsor {
 	 */
 	public static Double calcularVenda(Imovel ap){
 		try {
-		String modelo = "src/files/PrecificadorVenda.model",
+		String modelo = "src/files/MLPSale.model",
 			   fonte = "src/files/Sale.csv";
-		RandomForest pv = (RandomForest) weka.core.SerializationHelper.read(modelo);
+		MultilayerPerceptron pv = (MultilayerPerceptron) weka.core.SerializationHelper.read(modelo);
+		
 		DataSource source = new DataSource(fonte);
 		Instances novo = source.getDataSet();
 		novo.setClassIndex(novo.numAttributes()-1);
@@ -56,9 +55,9 @@ public class Previsor {
 	 */
 	public static Double calcularAluguel(Imovel ap) {
 		try{
-		String modelo = "src/files/PrecificadorAluguel.model",
-			   fonte = "src/files/Rent.csv";
-		RandomForest pv = (RandomForest) weka.core.SerializationHelper.read(modelo);
+			String modelo = "src/files/MLPRent.model",
+					   fonte = "src/files/Sale.csv";
+				MultilayerPerceptron pv = (MultilayerPerceptron) weka.core.SerializationHelper.read(modelo);
 		DataSource source = new DataSource(fonte);
 		Instances novo = source.getDataSet();
 		novo.setClassIndex(novo.numAttributes()-1);
@@ -84,7 +83,6 @@ public class Previsor {
 		catch (Exception e) {
 			return null;
 		}
-		
 		
 	}
 }
